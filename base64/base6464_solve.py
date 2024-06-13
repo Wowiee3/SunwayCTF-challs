@@ -3,6 +3,9 @@ import base64
 f = open("base64.txt", "r")
 flag = f.read()
 
-for x in range(32):
+while True:
 	flag = base64.b64decode(flag)
-print(flag.decode("utf-8"))
+	flagStr = flag.decode("utf-8")
+	if "ictf" in flagStr:
+		print(flagStr)
+		break

@@ -1,0 +1,4 @@
+LuffySeemsBroken
+Did you know, Luffy might have Gear 9 - Pixel Strength!!!
+
+sunctf{lsb_and_pixels}

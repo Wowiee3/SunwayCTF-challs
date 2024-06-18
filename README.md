@@ -15,7 +15,7 @@
 ## Steganography
 1. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
 2. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
-3. [nagicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
+3. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
 4. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)
 
 ## Rev

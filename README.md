@@ -2,6 +2,7 @@
 ## Web
 1. [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
 2. [web_os1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_os1)
+3. [web_babyPHP](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_babyPHP)
 
 ## Crypto
 1. [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)

@@ -1,4 +1,4 @@
 LuffySeemsBroken
-Did you know, Luffy might have Gear 9 - Pixel Strength!!!
+Have you read One Piece? I heard Luffy has a new Gear...
 
-sunctf{lsb_and_pixels}
+sunctf{stegano_is_not_f0rensics}

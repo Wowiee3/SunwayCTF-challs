@@ -12,13 +12,11 @@
 2. [lostmemories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
 3. [babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
 4. [call-of-protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
-
-## Steganography
-1. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
-2. [Copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
-3. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
-4. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
-5. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)
+5. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
+6. [Copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
+7. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
+8. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
+9. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)
 
 ## Rev
 

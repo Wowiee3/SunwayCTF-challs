@@ -6,6 +6,6 @@ flag = f.read()
 while True:
 	flag = base64.b64decode(flag)
 	flagStr = flag.decode("utf-8")
-	if "ictf" in flagStr:
+	if "SUN" in flagStr:
 		print(flagStr)
 		break

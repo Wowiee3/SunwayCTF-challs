@@ -1,1 +1,1 @@
-sunwayCTF{Kita-Ageo_Station}
+SUNCTF{Kita-Ageo_Station}

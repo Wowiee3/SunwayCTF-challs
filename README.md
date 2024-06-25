@@ -17,6 +17,7 @@
 7. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
 8. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
 9. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)
+10. [winterseason](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/winterseason)
 
 ## Rev
 

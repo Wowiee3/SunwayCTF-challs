@@ -1,4 +1,4 @@
 ## LuffySeemsBroken
-Did you know, the latest chapter shows that Luffy might obtain Gear 9 - Pixel Power!!!
+Have you read One Piece? I heard Luffy has a new Gear...
 
-Solution: zsteg `sunctf{lsb_and_pixels}`
+Solution: zsteg LSB `sunctf{stegano_is_not_f0rensics}`

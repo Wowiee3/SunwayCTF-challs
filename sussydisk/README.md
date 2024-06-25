@@ -1,24 +1,27 @@
-## Sussy Disk 1
-The forensics team recently recovered a disk image from a compromised machine. They mentioned that the attacker view some suspicious stuff on the Internet after accessing the machine. What was the attacker trying to look for?
+# Scenario
+The forensics team recently recovered a disk image from a compromised machine. Your job as an intern is to help uncover what the attacker had done to the compromised machine and what artifacts you can dig up for the final report. Goodluck!
 
-Solution: Check Google History artifact `sunctf{g00gle_the_g0at}`
+## Sussy Disk 1
+After infiltrating the machine, the attacker viewed some suspicious stuff on the Internet using Google Chrome. What was the attacker trying to look for?
+
+sunctf{g00gle_the_g0at}
 
 ## Sussy Disk 2
-The attacker then deleted an important file from the victim. Can you recover this file and find out its contents?
+The forensics team mentioned that an important file from the victim was deleted by the attacker. What was so important about this file...
 
-Solution: Extract/Analyze deleted image file `sunctf{remember_your_handles}`
+sunctf{remember_your_handles}
 
 ## Sussy Disk 3
-The attacker tried to access a confidential zip file stoerd in the machine. Can you find this file and find out its contents? PS: It is also known that the attacker is a fan of Powershell language.
+The attacker also tried to access a confidential zip file stored in the machine. Identify this zip file and maybe check its contents? PS: It is also known that the attacker is a fan of PowerShell.
 
-Solution: A password-protected zip file in Documents, the password is shown in Powershell history logs `sunctf{powershell_is_my_favourite_language}`
+sunctf{powershell_is_my_favourite_language}
 
 ## Sussy Disk 4
-The forensics team needs to know the the answers of the backup questions created by the victim. Can you retrieve them? Flag format: sunctf{Ans1_Ans2_An3}
+The forensics team needs to know the answers of the backup questions created by the victim. Can you retrieve them? Format: sunctf{Ans1_Ans2_An3}
 
-Solution: Use SecurityQuestionsView `sunctf{Wowiee_SuperTsumu_Shen}`
+sunctf{Wowiee_SuperTsumu_Shen}
 
 ## Sussy Disk 5
-Finally, the malware that compromised the machine has to be identified and contained. Try to look around the system to find the malware and analyze it. PS: Don't worry, the malware is not real and dangerous. The flag has 3 parts.
+Finally, it is time to identify and contain the malware. Try to look around the system to find it and analyze its function. The flag is also broken into 3 parts.
 
-Solution: First malware in Downloads > Second malware in Pictures > Third malware in Temp `sunctf{malware_analysis_is_not_that_hard}`
+sunctf{malware_analysis_is_not_that_hard}

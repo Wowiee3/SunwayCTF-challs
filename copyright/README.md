@@ -1,4 +1,6 @@
 ## Copyright
-Someone has been stealing my poems recently, I will put the flag as my signature next time! However, I think the person covered up my signature with a weird image...
+Someone has been stealing my poems recently, I will put the flag as my signature next time! However, I think my signature was blocked by a weird image.
 
-Solution: pdftohtml `sunctf{wr0ng_s1gnatur3}`
+Flag: `sunctf{wr0ng_s1gnatur3}`
+
+Extract PDF layers with pdftohtml

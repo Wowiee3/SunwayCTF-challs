@@ -5,7 +5,8 @@
 3. [web_babyPHP](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_babyPHP)
 
 ## Crypto
-1. [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
+1. [babyRSA](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyRSA)
+2. [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
 
 ## Forensics/Steganography
 1. [sussydisk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
@@ -22,7 +23,8 @@
 
 ## OSINT
 1. [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)
-2. [hr-department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
+2. [eyesClosed](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/eyesClosed)
+3. [hr-department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
 
 ## Misc
 1. [sit-back-and-relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax)

@@ -1,4 +1,6 @@
 ## Graduation Letter
 Hope my friend can see this letter so that he knows I am graduating next month.
 
-Solution: exiftool the jpg file for password > extract zip file with binwalk > unzip with password > pdf2john the pdf file > Ctrl+A for flag `sunctf{leaRn_y0uR_stegan0}`
+Flag: `sunctf{leaRn_y0uR_stegan0}`
+
+binwalk extract image for zip file (exiftool the image for password) > unzip and pdf2john the pdf file for password

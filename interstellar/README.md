@@ -1,4 +1,6 @@
 ## Interstellar
-My favourite planet in space, Moonway!!
+My friend Martin, a radio enthusiast, is on a trip to Sunway Lagoon.
 
-Solution: SSTV decoding `sunctf{m00nway_lag00n}`
+Flag: `sunctf{m00nway_lag00n}`
+
+SSTV decoding

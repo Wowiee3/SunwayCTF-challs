@@ -13,7 +13,7 @@
 3. [babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
 4. [call-of-protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
 5. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
-6. [Copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
+6. [copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
 7. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
 8. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
 9. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)

@@ -22,6 +22,8 @@
 ## Rev
 
 ## OSINT
+1. [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)
+2. [hr-department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
 
 ## Misc
 1. [sit-back-and-relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax)

@@ -1,4 +1,6 @@
 ## LuffySeemsBroken
-Have you read One Piece? I heard Luffy has a new Gear...
+Have you read One Piece? I heard Luffy has a new Gear coming up...
 
-Solution: zsteg LSB `sunctf{stegano_is_not_f0rensics}`
+Flag: `sunctf{lsb_and_pixels}`
+
+zsteg LSB on the image

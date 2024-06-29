@@ -24,4 +24,5 @@
 ## OSINT
 
 ## Misc
-1. [guessTheFlag](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/guessTheFlag)
+1. [sit-back-and-relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax)
+2. [guessTheFlag](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/guessTheFlag)

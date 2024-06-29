@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Teapot Server</title>
+</head>
+<body>
+{% if flag %}
+<h1>Error 418: I'm a teapot</h1>
+
+<p>You attempted to BREW coffee with a teapot. This is going to be the last time I do you the favour.</p>
+
+<pre>
+                          (
+                        )     (
+                 ___...(-------)-....___
+             .-""       )    (          ""-.
+       .-'``'|-._             )         _.-|
+      /  .--.|   `""---...........---""`   |
+     /  /    |                             |
+     |  |    |                             |
+      \  \   |                             |
+       `\ `\ |                             |
+         `\ `|                             |
+         _/ /\                             /
+        (__/  \                           /
+     _..---""` \                         /`""---.._
+  .-'           \                       /          '-.
+ :               `-.__             __.-'              :
+ :                  ) ""---...---"" (                 : sunctf{n3v3r_8r3W_c0ff33_1n_4_734p07}
+  '._               `"--...___...--"`              _.'
+jgs \""--..__                              __..--""/
+     '._     """----.....______.....----"""     _.'
+        `""--..,,_____            _____,,..--""`
+                      `"""----"""`
+</pre>
+
+<p>Please find a coffee machine next time.</p>
+
+<a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">See what HTCPCP is.</a>
+{% else %}
+<h2>The server is running<span id="run">...</span></h2>
+<img src="{{ url_for('static', filename='server.jpg') }}" alt="server" width="500">
+
+<script>
+    var counter = 0;
+    setInterval(() => {
+        document.getElementById('run').innerText = '.'.repeat(counter);
+        counter++;
+        counter %= 4;
+    }, 800);
+</script>
+{% endif %}
+</body>
+</html>

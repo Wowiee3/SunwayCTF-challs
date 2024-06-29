@@ -7,7 +7,7 @@
 ## Crypto
 1. [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
 
-## Forensics
+## Forensics/Steganography
 1. [sussydisk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
 2. [lostmemories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
 3. [babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
@@ -16,8 +16,7 @@
 6. [copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
 7. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
 8. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
-9. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)
-10. [winterseason](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/winterseason)
+9. [winterseason](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/winterseason)
 
 ## Rev
 
@@ -28,3 +27,4 @@
 ## Misc
 1. [sit-back-and-relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax)
 2. [guessTheFlag](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/guessTheFlag)
+3. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)

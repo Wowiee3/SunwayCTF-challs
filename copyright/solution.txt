@@ -1,4 +1,0 @@
-Copyright
-Someone has been stealing my poems recently, I will put the flag as my signature next time! However, I think the person covered up my signature with a weird image...
-
-sunctf{wr0ng_s1gnatur3}

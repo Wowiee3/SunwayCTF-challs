@@ -2,26 +2,26 @@
 The forensics team recently recovered a disk image from a compromised machine. Your job as an intern is to help uncover what the attacker had done to the compromised machine and what artifacts you can dig up for the final report. Goodluck!
 
 ## Sussy Disk 1
-After infiltrating the machine, the attacker viewed some suspicious stuff on the Internet using Google Chrome. What was the attacker trying to look for?
+After infiltrating the machine, the attacker searched up some suspicious stuff on the Internet using a famous browser. What was the attacker trying to look for?
 
-sunctf{g00gle_the_g0at}
+Flag: `sunctf{g00gle_the_g0at}`
 
 ## Sussy Disk 2
-The forensics team mentioned that an important file from the victim was deleted by the attacker. What was so important about this file...
+The forensics team mentioned that an important file from the victim was deleted by the attacker. 
 
-sunctf{remember_your_handles}
+Flag: `sunctf{remember_your_handles}`
 
 ## Sussy Disk 3
-The attacker also tried to access a confidential zip file stored in the machine. Identify this zip file and maybe check its contents? PS: It is also known that the attacker is a fan of PowerShell.
+The attacker also tried to access a confidential zip file stored in the machine. Identify this zip file to find out what was so important about this file. It is also known that the attacker is a fan of PowerShell.
 
-sunctf{powershell_is_my_favourite_language}
+Flag: `sunctf{powershell_is_my_favourite_language}`
 
 ## Sussy Disk 4
 The forensics team needs to know the answers of the backup questions created by the victim. Can you retrieve them? Format: sunctf{Ans1_Ans2_An3}
 
-sunctf{Wowiee_SuperTsumu_Shen}
+Flag: `sunctf{Wowiee_SuperTsumu_Shen}`
 
 ## Sussy Disk 5
-Finally, it is time to identify and contain the malware. Try to look around the system to find it and analyze its function. The flag is also broken into 3 parts.
+Finally, it is time to identify and contain the malware. Look around common locations to find it and analyze its function. The flag has 3 parts.
 
-sunctf{malware_analysis_is_not_that_hard}
+Flag: `sunctf{malware_analysis_is_not_that_hard}`

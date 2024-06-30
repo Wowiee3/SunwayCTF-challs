@@ -9,15 +9,15 @@
 2. [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
 
 ## Forensics/Steganography
-1. [sussydisk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
-2. [lostmemories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
-3. [babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
-4. [call-of-protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
-5. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
-6. [copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
-7. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
-8. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
-9. [winterseason](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/winterseason)
+1. [legends](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/legends)
+2. [sussydisk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
+3. [lostmemories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
+4. [babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
+5. [call-of-protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
+6. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
+7. [copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
+8. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
+9. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
 
 ## Rev
 

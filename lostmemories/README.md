@@ -1,5 +1,5 @@
 ## Lost Memories 1
-What was the time on the system when the memory was captured? Format: sunctf{YYYY-MM-DD_hh:mm:ss}
+What was the time on the system when the memory was captured? (UTC+0000) Format: sunctf{YYYY-MM-DD_hh:mm:ss}
 
 Flag: `sunctf{2024-06-16_05:04:11}`
 

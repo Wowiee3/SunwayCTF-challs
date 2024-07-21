@@ -27,3 +27,8 @@ Flag: `sunctf{love_sunway}`
 The victim kept his study notes somewhere in the machine. Can you recover his study notes and analyze it to make sure it is safe before handing it to him.
 
 Flag: `sunctf{vba_macros_are_dangerous}`
+
+## Lost Memories 7
+The victim also mentioned that he loved painting using his PC and might have drew a flag on it. Note: this is a bonus question, please try other challenges first before attempting this as heavy trial-and-error will be required.
+
+Flag: `sunctf{GIMP_BONUS!}`

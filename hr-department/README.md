@@ -31,4 +31,4 @@ Master Warlock was a pro TryHackMe player, he used to grind it weekly.
 
 Flag: `sunctf{b0nus_0s1nt_4_y0u!}`
 
-warlocksmurf THM > Hoyolab account > pastebin (password Cm6madAJ1e is in an imgur link)
+warlocksmurf THM > Hoyolab account > CTFTime > pastebin (password `Cm6madAJ1e` in imgur)

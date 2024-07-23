@@ -16,15 +16,15 @@
 
 ## Forensics/Steganography
 
-1. [legends](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/legends)
-2. [sussydisk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
-3. [lostmemories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
-4. [babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
-5. [call-of-protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
+1. [Legends of Fishing](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/legends)
+2. [Sussy disk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
+3. [Lost memories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
+4. [Baby shark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
+5. [Call of Protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
 6. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
-7. [copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
-8. [graduation-letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
-9. [magicshow](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
+7. [Copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
+8. [Graduation letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
+9. [Magic show](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
 
 ## Rev
 
@@ -32,11 +32,11 @@
 
 1. [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)
 2. [eyesClosed](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/eyesClosed)
-3. [hr-department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
+3. [SunwayCSC HR Department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
 
 ## Misc
 
 1. [sit-back-and-relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax)
 2. [guessTheFlag](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/guessTheFlag)
-3. [interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)
+3. [Interstellar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/interstellar)
 4. [pyLocker](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/pyLocker)

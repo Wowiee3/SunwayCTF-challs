@@ -16,7 +16,7 @@
 
 ## Forensics/Steganography
 
-1. [Legends of Fishing](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/legends)
+1. [Legends of Fishing](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/phishing)
 2. [Master Fanum Tax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
 3. [Sussy disk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
 4. [Lost memories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)

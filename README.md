@@ -17,11 +17,11 @@
 ## Forensics/Steganography
 
 1. [Phishing for flags](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/phishing)
-2. [Master Fanum Tax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
+2. [MasterFanumTax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
 3. [Sussy disk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
 4. [Lost memories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
 5. [Baby shark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
-6. [Call of Protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
+6. [Call of protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
 7. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
 8. [Copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
 9. [Graduation letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)

@@ -3,8 +3,8 @@
 ## Web
 
 1. [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
-2. [web_os1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_os1)
-3. [web_babyPHP](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_babyPHP)
+2. [web_x]()
+3. [web_z]()
 4. [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
 5. [<unnamed_ssrf> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_ssrf)
 6. [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)

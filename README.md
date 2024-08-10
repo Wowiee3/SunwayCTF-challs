@@ -33,7 +33,7 @@
 
 1. [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)
 2. [eyesClosed](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/eyesClosed)
-3. [SunwayCSC HR Department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
+3. [CSC HR Department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
 
 ## Misc
 

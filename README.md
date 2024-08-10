@@ -16,16 +16,16 @@
 
 ## Forensics/Steganography
 
-1. [Phishing for flags](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/phishing)
-2. [MasterFanumTax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
-3. [Sussy disk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
-4. [Lost memories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
-5. [Baby shark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
-6. [Call of protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
-7. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
-8. [Copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
-9. [Graduation letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
-10. [Magic show](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
+1. [Baby Shark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
+2. [Phishing for Flags](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/phishing)
+3. [MasterFanumTax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
+4. [Call of Protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
+5. [Sussy Disk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
+6. [Lost Memories](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
+7. [Magic Show](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
+8. [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
+9. [Copyright](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/copyright)
+10. [Graduation letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
 
 ## Rev
 

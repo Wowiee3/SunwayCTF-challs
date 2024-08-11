@@ -6,7 +6,7 @@ Flag: `sunctf{the_c00l_yaksha}`
 Send email for auto reply > find account on Instagram > the flag is in one of the post
 
 ## CSC HR Department 2
-I heard a cybersecurity meetup was held at Sunway University sometime this year, I wonder if Xiao and his gang was there... Flag format: sunctf{fake_flag}
+A cybersecurity meetup was held at Sunway University sometime this year, Xiao and his gang was there eating pizza and having a blast! Flag is all lowercase.
 
 Flag: `sunctf{wizard_of_legends}`
 
@@ -20,15 +20,8 @@ Flag: `sunctf{piccoli_lotti}`
 The chat mentioned something about SS18 and roadside. A pic is also shown with the shop logo. 
 
 ## CSC HR Department 4
-Someone recently got certified as a Senior Wizard from Skibidi Toilet Academy...
-
-Flag: `sunctf{m4st3r_st4lk3r}`
-
-Find Robbin Linkedin certs > cert URL to YT > Link to HTB > GitHub > top-secret repo > flag in a commit
-
-## CSC HR Department 5
-Master Warlock was a pro TryHackMe player back in the days, is he still playing it?
+Someone recently got certified as a Senior Wizard from Skibidi Toilet Academy.
 
 Flag: `sunctf{b0nus_0s1nt_4_y0u!}`
 
-warlocksmurf THM > Hoyolab account > CTFTime > pastebin (password `Cm6madAJ1e` in imgur)
+Find Master Warlock on Linkedin > One of the cert has a URL to YT > YT desc link to GitHub > top-secret commit shows CTFtime team name > Team description has link to Pastebin > pastebin password in imgur (Cm6madAJ1e)

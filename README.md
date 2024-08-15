@@ -4,7 +4,7 @@
 
 1. [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
 2. [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar)
-3. [web_z]()
+3. [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)
 4. [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
 5. [<unnamed_ssrf> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_ssrf)
 6. [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)

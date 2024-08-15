@@ -1,1 +1,1 @@
-sunctf{ipv6_is_wEird}
+sunctf{ipv6_is_wEird_read_thE_D0cs}

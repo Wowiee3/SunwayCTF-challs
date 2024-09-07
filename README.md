@@ -13,8 +13,8 @@
 - [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
 
 ## Forensics/Steganography
-- [Baby Shark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
-- [Phishing for Flags](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/phishing)
+- [Babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
+- [Zelda's Phishing Pond](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/zeldaphishingpond)
 - [MasterFanumTax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
 - [Call of Protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
 - [Sussy Disk](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)

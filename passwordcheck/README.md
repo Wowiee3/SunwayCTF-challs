@@ -1,4 +1,7 @@
-Description: I hear its amazing when the famous purple stuffed worm in flap-jaw space with the tuning fork does a raw blink on Hari Kiri Rock.
+Description: I hear its amazing when the famous purple stuffed worm in flap-jaw space with the tuning fork does a raw blink on Hari Kiri Rock.\n
+Execute this binary using the following commands:
+chmod +x passwordcheck
+./passwordcheck
 
 HINT: The password is stored as a string.
 

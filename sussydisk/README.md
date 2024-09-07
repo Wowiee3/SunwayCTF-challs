@@ -1,8 +1,5 @@
-# Scenario
-The forensics team recently recovered a disk image from a compromised machine. Your job as an intern is to help uncover what the attacker had done to the compromised machine and what artifacts you can dig up for the final report. Goodluck!
-
 ## Sussy Disk 1
-The attacker searched up some suspicious stuff on the Internet after infiltrating the machine. What was the attacker trying to look for?
+The forensics team recently recovered a disk image from a compromised machine. Your job as an intern is to help uncover what the attacker had done to the compromised machine and what artifacts you can dig up for the final report. The attacker searched up some suspicious stuff on the Internet after infiltrating the machine, I wonder what was the attacker looking for?
 
 Flag: `sunctf{g00gle_the_g0at}`
 

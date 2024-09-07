@@ -24,6 +24,7 @@
 - [Graduation letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
 
 ## Rev
+- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme)
 
 ## OSINT
 - [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)

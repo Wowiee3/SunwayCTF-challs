@@ -1,6 +1,3 @@
-# Scenario
-The forensics team recently recovered a memory dump from a compromised machine. Your job as an intern is to help uncover what the attacker had done to the compromised machine and what artifacts you can dig up for the final report. Goodluck!
-
 ## Lost Memories 1
 What is the password of the system user?
 

@@ -1,5 +1,5 @@
-## Master Fanum Tax
-Never store your secret codes in a text file.
+## MasterFanumTax
+Mr Fanum might have accidentally placed his secret code in a text file on the Documents folder, can you recover it?
 
 Flag: `sunctf{b4s1cs_0f_mft}`
 

@@ -11,7 +11,7 @@ int main() {
     scanf("%s", password);
 
     if(strcmp(password, "ineedscissors61") == 0) {
-        printf("Correct! The flag is sunctf{rev4password}");
+        printf("Your password is correct!");
     }
     else {
         printf("Wrong. Try again.");

@@ -1,24 +1,24 @@
 ## Lost Memories 1
+We managed to recover a memory dump from the compromised machine and require your analysis using Volatility3 to obtain information about the attack. Can you identify when was the memory dump taken. Format: sunctf{2020-01-01 12:00:00+00:00}
+
+Flag: `sunctf{2024-09-10 13:58:14+00:00}`
+
+## Lost Memories 2
 What is the password of the system user?
 
 Flag: `sunctf{love_sunway}`
 
-## Lost Memories 2
-The victim accidentally downloaded and ran a malware which spawned a malicious process in the system. What was the malicious process called and what was its process ID and parent process ID? Format: sunctf{name_PID_PPID}
-
-Flag: `sunctf{inject0r.exe_1832_8164}`
-
 ## Lost Memories 3
-The malicious process spawned a child process to inject the flag within it. Retrieve this flag from the process.
+The victim accidentally executed a malicious executable in the system. What was the malicious executable called, its process ID and parent process ID? Format: sunctf{abc.exe_PID_PPID}
+
+Flag: `sunctf{inject0r.exe_5904_7780}`
+
+## Lost Memories 4
+The malicious executable injected the flag into its child process, can you retrieve the flag back?
 
 Flag: `sunctf{v0latility_is_l0v3}`
 
-## Lost Memories 4
+## Lost Memories 5
 The victim kept his study notes somewhere in the machine. Can you recover his study notes and analyze it to make sure it is safe before handing it to him.
 
 Flag: `sunctf{vba_macros_are_dangerous}`
-
-## Lost Memories 5
-The victim also mentioned that he loved painting using his PC and might have drew a flag on it. Note: this question requires heavy trial-and-error, so it is advisable to try other challenges/categories first.
-
-Flag: `sunctf{GIMP_BONUS!}`

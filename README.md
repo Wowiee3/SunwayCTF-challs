@@ -26,6 +26,7 @@
 ## Rev
 - [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme)
 - [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck)
+- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping)
 
 ## OSINT
 - [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)

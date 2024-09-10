@@ -1,3 +1,6 @@
+Hash: 71524DD39D5699AA3296C5E0B4AA73F50B836B3CBA58494587987A2BCCB00BEE
+Password: sunctfmemory
+
 ## Lost Memories 1
 We managed to recover a memory dump from the compromised machine and require your analysis using Volatility3 to obtain information about the attack. Can you identify when was the memory dump taken. Format: sunctf{2020-01-01 12:00:00+00:00}
 

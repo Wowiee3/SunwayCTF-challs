@@ -12,16 +12,16 @@
 - [babyRSA](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyRSA)
 - [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
 
-## Forensics/Steganography
+## Forensics
 - [Babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
 - [Zelda's Phishing Pond](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/zeldaphishingpond)
 - [MasterFanumTax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
 - [Call of Protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
-- [Sussy Disk (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
-- [Lost Memories (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
 - [Magic Show](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
 - [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
-- [Graduation letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
+- [Graduation Letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
+- [Lost Memories (1-4)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
+- [Sussy Disk (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
 
 ## Rev
 - [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme)

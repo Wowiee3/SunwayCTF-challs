@@ -1,3 +1,6 @@
+Hash: 54A5322F5155CC8B850CA2C70AAD74B2BAE8AD0BB244F82CF79D5A64FED4F68C
+Password: sunctfdisk
+
 ## Sussy Disk 1
 The forensics team recently recovered a disk image from a compromised machine. Your job as an intern is to help uncover what the attacker had done to the compromised machine and what artifacts you can dig up for the final report. The attacker searched up some suspicious stuff on the Internet after infiltrating the machine, I wonder what was the attacker looking for?
 

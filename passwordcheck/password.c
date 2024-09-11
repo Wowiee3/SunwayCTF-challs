@@ -11,7 +11,8 @@ int main() {
     scanf("%s", password);
 
     if(strcmp(password, "ineedscissors61") == 0) {
-        printf("Your password is correct!");
+        printf("Your password is correct!\n");
+        printf("https://youtu.be/68mbFvenlaQ?si=AWEJH3IUusGwLSTn");
     }
     else {
         printf("Wrong. Try again.");

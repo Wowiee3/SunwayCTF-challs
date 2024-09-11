@@ -21,7 +21,6 @@ def menu():
 
 def apple():
     amount = int(input("How many apples do you want to buy?: "))
-    print(amount)
     global coins
     if coins >= 10 * amount:
         for x in range(amount):
@@ -35,7 +34,12 @@ def apple():
     menu()
 
 def flag():
-    if coins >= 100:
+    amount = int(input("How many flags do you want to buy?: "))
+    global coins
+    if coins >= 100 * amount:
         print("Here's your flag!: sunctf{til_you_dr0p}")
+    else:
+        print("You don't have enough coins for that!")
+        menu()
 
 menu()

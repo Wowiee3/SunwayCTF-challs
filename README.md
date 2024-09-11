@@ -1,9 +1,11 @@
 # CTF Challenges for CSC Internal CTF 2024
 
 ## Web
-- [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
-- [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar)
-- [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)
+- [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots) (beginner)
+- [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) (easy)
+- [web_image_gallery](https://x.com) (easy, lfi -> /admin, node )
+- [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(easy-medium)
+- [web_ssrf_debug](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(easy-medium)
 - [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
 - [<unnamed_ssrf> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_ssrf)
 - [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)

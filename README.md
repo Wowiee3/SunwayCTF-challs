@@ -2,10 +2,11 @@
 
 ## Web
 - [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots) (beginner)
+- [web_image_gallery](https://x.com) (beginner, lfi -> environ file, node )
 - [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) (easy)
-- [web_image_gallery](https://x.com) (easy, lfi -> /admin, node )
-- [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(easy-medium)
-- [web_ssrf_debug](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(easy-medium)
+- [web_nasi_node_tricks](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) (easy)
+- [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(mediumish)
+- [web_ssrf_debug](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(mediumish)
 - [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
 - [<unnamed_ssrf> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_ssrf)
 - [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)

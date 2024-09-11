@@ -28,9 +28,10 @@
 - [Sussy Disk (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
 
 ## Rev
-- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme)
-- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck)
-- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping)
+- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner)
+- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy)
+- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy)
+- [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1%3A1) (medium)
 
 ## OSINT
 - [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)

@@ -1,12 +1,12 @@
 # CTF Challenges for CSC Internal CTF 2024
 
 ## Web
-- [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots) (beginner)
+- [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
 - [web_image_gallery](https://x.com) (beginner, lfi -> environ file, node )
-- [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) (easy)
-- [web_just_JavaScript](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) (easy)
-- [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(mediumish)
-- [web_ssrf_debug](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)(mediumish)
+- [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
+- [web_just_JavaScript](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
+- [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)
+- [web_ssrf_debug](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)
 - [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
 - [<unnamed_ssrf> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_ssrf)
 - [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)

@@ -11,8 +11,9 @@
 - [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)
 
 ## Crypto
-- [babyRSA](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyRSA)
 - [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
+- [babyRSA](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyRSA)
+- [babyAES](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyAES)
 
 ## Forensics
 - [Babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)

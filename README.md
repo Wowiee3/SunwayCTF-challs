@@ -37,6 +37,7 @@
 
 ## OSINT
 - [promo-osint](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/promo_osint)
+- [motto](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/motto)
 - [eyesClosed](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/eyesClosed)
 - [CSC HR Department](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department)
 

@@ -15,6 +15,7 @@
 - [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
 - [babyRSA](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyRSA)
 - [babyAES](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyAES)
+- [House Keys](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/housekeys)
 
 ## Forensics
 - [Babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)

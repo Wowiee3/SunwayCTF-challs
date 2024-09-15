@@ -1,4 +1,4 @@
-## Graded Reels [Easy]
+## Graded Reels
 After grading my friend's Instagram reels, I gave him the flag as a reward.
 
 Flag: `sunctf{cr0pped_1nst4gr4m_ch4t_jpg}`

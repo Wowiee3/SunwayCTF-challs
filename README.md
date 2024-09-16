@@ -2,7 +2,7 @@
 
 ## Web
 - [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
-- [web_schools]([https://x.com](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_schools)) (beginner, lfi -> environ file, node )
+- [web_schools]((https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_schools)) (beginner, lfi -> environ file, node )
 - [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
 - [web_just_JavaScript](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
 - [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)

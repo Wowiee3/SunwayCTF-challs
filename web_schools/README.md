@@ -1,4 +1,4 @@
-Description: I protected my environment keys and prevented arbitary file read from sunway hackers!
+Description: I protected my environment keys and prevented mallicious file reads from sunway hackers!
 
 Deployment: 
 1) Build and run the dockerfile, the server will be listening on port 5001.

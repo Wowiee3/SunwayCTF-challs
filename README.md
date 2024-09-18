@@ -4,7 +4,7 @@
 - [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
 - [web_schools](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_schools)
 - [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
-- [web_racing](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_racing) 
+- [web_shopping_spree_real_fun](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_shopping_spree_real_fun) 
 - [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)
 - [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
 - [<unnamed_ssrf> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_ssrf)

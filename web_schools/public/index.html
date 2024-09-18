@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Gallery with Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+      background-color: rgb(248, 246, 243);
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .image-box {
+      margin: 20px;
+      max-width: 300px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    .description {
+      font-size: 16px;
+      color: #333;
+    }
+
+    .description a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+
+    .description a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Sunway Schools</h1>
+
+  <div class="container">
+    <!-- First Image -->
+    <div class="image-box">
+      <img src="/pics/uni.png" alt="Description of image 1">
+      <div class="description">
+        <a href="/file?school=university.html" target="_blank">Sunway University</a>
+      </div>
+    </div>
+
+    <!-- Second Image -->
+    <div class="image-box">
+      <img src="/pics/college.png" alt="Description of image 2">
+      <div class="description">
+        <a href="/file?school=college.html" target="_blank">Sunway College</a>
+      </div>
+    </div>
+
+    <!-- Third Image -->
+    <div class="image-box">
+      <img src="/pics/international.png" alt="Description of image 3">
+      <div class="description">
+        <a href="/file?school=international.html" target="_blank">Sunway International School</a>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

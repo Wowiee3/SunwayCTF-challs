@@ -9,7 +9,7 @@ Solve:
 1) Each program running would have their corresponding process id (PID), use this behaviour to read the environment file with /proc/1/environ as /proc/self/environ is blocked.
 2) The path filtering on "../" is done non-recursively, and can be bypassed with examples such as "....//" or "..././" sequence as it will be stripped to "../".
 3) Now we can read arbitary files by going up directories with the "../" sequence.
-4) An example valid filepath to read the environment variable for flag "/file?school=....//....//proc/1/environ".
+4) An example valid payload to read the environment variable for the flag is "/file?school=....//....//proc/1/environ".
 
 
 

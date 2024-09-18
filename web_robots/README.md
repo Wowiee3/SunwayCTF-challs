@@ -7,7 +7,7 @@ Deployment:
 
 Solve: 
 1) Go to /robots.txt to find /flag.php and /codeGen.php.
-2) Random function is given with seed, which generates the same number everytime.
+2) Random function is given with seed in /codeGen.php, which generates the same number everytime.
 3) Copy and execute the code to get the random number.
 4) Go to /flag.php and input the number for the flag.
 

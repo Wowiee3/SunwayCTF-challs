@@ -1,14 +1,13 @@
 Description: Yet another robots web challenge.
 
 Deployment: 
-1) Build and run the dockerfile, the server will be listening on port 5002.
-2) Distribute nasi_kandar.zip to participants as it is a whitebox challenge.
+1) Build and run the dockerfile, the server will be listening on port 5000.
+2) No files to be distributed as it is a blackbox challenge (classic robots.txt challenge)
 3) solve.py can be used to check the challenge is working as intended (it will solve the challenge and get the flag), change the URL to the remote instance to mimic a participant.
 
 Solve: 
-1) Login with "Admin" or any variation due to case-insensitive nature of MySQL.
-2) Generate a valid cookie with boolean true in price property to bypass the price check.
-3) Send a GET request to /price.php to obtain the flag due to PHP loose comparison, == instead of ===.
-4) An integer when compared to boolean true with == is always true, as the type is not enforced (https://www.php.net/manual/en/types.comparisons.php).
+1) Go to /robots.txt to discover /codeGen.php and /flag.php
+2) /codeGen.php has a random number function which has a fixed seed. This produces the same number everytime, copy the code and execute it to obtain the number.
+3) Input the number at flag.php to get the flag.
 
 

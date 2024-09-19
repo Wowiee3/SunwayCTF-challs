@@ -1,8 +1,8 @@
 Description: Admins tried to disable my money glitch but I still found a way.
 
 Deployment: 
-1) Build and run the dockerfile, the server will be listening on port 5001.
-2) Distribute schools.zip to the participants as it is a whitebox challenge.
+1) Build and run the dockerfile, the server will be listening on port 5003.
+2) Distribute shopping.zip to the participants as it is a whitebox challenge.
 3) solve.py can be used to check the challenge is working as intended (it will solve the challenge and get the flag), change the URL to the remote instance to mimic a participant.
 
 Solve: 

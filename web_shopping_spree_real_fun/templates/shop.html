@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <title>Mugz Shop</title>
+    <style>
+        a{
+            text-decoration: none;
+            color: white;
+        }
+        a:hover {
+            text-decoration: none;
+            color: rgb(255,255,255,0.5)
+        }
+        span {
+            padding-right: 1rem;
+        }
+        .buy {
+            color: black;
+
+        }
+        .buy:hover {
+            color: rgb(20, 20, 20,0.5);
+
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="{{ url_for('shop') }}">Mugz Shop</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a href="{{ url_for('shop') }}">Shop</a>
+            </li>
+          </ul>
+          <span >
+            <a href="{{ url_for('account') }}">Account</a>
+          </span>
+          <span>
+            <a href="{{ url_for('logout') }}">Logout</a>
+          </span>
+        </div>
+    </nav>
+    <br>
+    <br>
+    <div class="container text-center">
+        <h2>Mugz Shop</h2>
+    </div>
+    <div class="container text-center">
+        {% for acc in account %}
+            <h2>{{ acc[0]}} 's currency = {{ acc[1] }}</h2>
+        {% endfor %}
+    </div>
+    <div class="container text-center">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th class="text-center">Item ID</th>
+                    <th class="text-center">Item Name</th>
+                    <th class="text-center">Item Price</th>
+            </thead>
+            <tbody>
+                {% for item in data %}
+                    <tr>
+                        <td class="text-center">{{ item[0] }}</td>
+                        <td class="text-center">{{ item[1] }}</td>
+                        <td class="text-center">{{ item[2] }}</td>
+                        <td class="text-center"><a class="buy" href="/purchase/{{ item[0] }}">Buy</a></td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

@@ -4,7 +4,7 @@ RUN apt-get update && apt-get install -y
 
 RUN docker-php-ext-install mysqli && docker-php-ext-enable mysqli 
 
-RUN sed -i 's/Listen 80/Listen 5001/' /etc/apache2/ports.conf
+RUN sed -i 's/Listen 80/Listen 5002/' /etc/apache2/ports.conf
 
 COPY src/ /var/www/html/
 

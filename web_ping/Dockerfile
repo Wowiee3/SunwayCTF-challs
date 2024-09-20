@@ -4,9 +4,16 @@ WORKDIR /app
 
 COPY ./app /app
 
-RUN apt-get update && apt-get install -y curl && \
+RUN apt-get update && apt-get install -y curl iputils-ping && \
     pip install -r requirements.txt
 
-EXPOSE 5002
+RUN useradd -m ctfuser
 
-CMD [ "python3","app.py" ]
+RUN chown -R root:root /app && \
+    chmod -R 755 /app
+
+USER ctfuser
+
+EXPOSE 5004
+
+CMD [ "python3", "app.py" ]

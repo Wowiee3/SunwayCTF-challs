@@ -6,7 +6,7 @@ services:
       context: ./webserver
       dockerfile: Dockerfile
     ports:
-      - 5001:5001
+      - 5002:5002
   mysql:
     container_name: sql-server
     build:

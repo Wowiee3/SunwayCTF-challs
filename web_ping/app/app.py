@@ -5,29 +5,26 @@ from flask import Flask, request, render_template
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET'])
-def index():
-    return render_template('index.html')
-
-@app.route('/ping', methods=['GET'])
+@app.route('/', methods=['GET', 'OPTIONS'])
 def ping():
-    IP = request.args.get('IP', '')
+    user_supplied_IP = request.args.get('IP', '')
     try:
-        addr = ipaddress.ip_address(IP)
+        myIPaddress = ipaddress.ip_address(user_supplied_IP)
     except ValueError:
-        error_msg = 'Invalid IP address'
-        return render_template('index.html', result=error_msg)
+        custom_error_msg = 'You supplied an invalid IP address'
+        return render_template('index.html', result=custom_error_msg)
 
-    cmd = f'ping -c 3 {addr}'
+    command_to_execute = f'ping -c 2 {myIPaddress}'
+    print(command_to_execute, flush=True)
     try:
-        output = subprocess.check_output(['/bin/sh', '-c', cmd], timeout=8)
-        return render_template('index.html', result=output.decode('utf-8'))
+        results = subprocess.check_output(['/bin/sh', '-c', command_to_execute], timeout=8)
+        return render_template('index.html', result=results.decode('utf-8'))
     except subprocess.TimeoutExpired:
-        error_msg = 'Request Timed Out!'
-        return render_template('index.html', result=error_msg)
+        custom_error_msg = 'Request Timed Out!'
+        return render_template('index.html', result=custom_error_msg)
     except subprocess.CalledProcessError:
-        error_msg = 'An error occured'
-        return render_template('index.html', result=error_msg)
+        custom_error_msg = 'An error occured'
+        return render_template('index.html', result=custom_error_msg)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5002)
+    app.run(host='0.0.0.0', port=5004)

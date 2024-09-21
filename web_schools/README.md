@@ -11,9 +11,9 @@
 | Flag           | sunctf{ea5h_pr0cess_ha5_1ts_oWn_PID}                                                    |
 | Score          | ???                                                                                     |
 
-*File(s) in the `attachments` directory are distributed to the participants.*
+*File(s) in `attachments/` are distributed to the participants.*
 
-![screenshot.png](docs/screenshot.png)
+![Screenshot](docs/screenshot.png)
 
 ## Solution
 

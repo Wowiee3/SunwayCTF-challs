@@ -73,7 +73,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </style>
 </head>
 <body>
-    <form action="./flag.php" method="post">
+    <form action="flag.php" method="post">
         <label for="name">Submit Code From codeGen.php</label>
         <br>
         <input type="text" id="code" name="code" required><br><br>

@@ -1,8 +1,8 @@
 # CTF Challenges for CSC Internal CTF 2024
 
 ## Web
-- [web_robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
-- [web_schools](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_schools)
+- [Robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
+- [Schools](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_schools)
 - [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
 - [web_shopping_spree_real_fun](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_shopping_spree_real_fun) 
 - [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)

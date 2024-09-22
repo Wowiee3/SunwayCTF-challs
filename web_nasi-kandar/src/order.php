@@ -121,7 +121,7 @@ if (!isset($_SESSION['logged'])) {
             <button type="submit">Submit</button>
         </form>
         <div class="disclaimer">
-            * If you guess the price correctly, you get a flag!
+            * If you guess the price correctly, you get the flag!
         </div>
     </div>
 </body>

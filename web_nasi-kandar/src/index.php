@@ -2,6 +2,7 @@
 error_reporting(0);
 
 require_once "db.php";
+global $db_connection;
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (isset($_POST['username']) && isset($_POST['password'])) {
@@ -28,14 +29,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 session_start();
                 $_SESSION['logged'] = True;
                 header("Location: order.php");
-                exit();
             } else {
                 echo "Invalid credentials";
-                exit();
             }
 
             mysqli_stmt_free_result($stmt);
             mysqli_stmt_close($stmt);
+            exit();
         } else {
             echo "Error preparing statement: " . mysqli_error($db_connection);
         }
@@ -59,15 +59,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             justify-content: center;
             align-items: center;
             background-color: #f0f0f0;
-        }
-
-        .container {
-            max-width: 300px;
-            width: 100%;
-            padding: 20px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            background-color: #f9f9f9;
         }
 
         label {

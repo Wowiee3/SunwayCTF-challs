@@ -35,7 +35,7 @@ Things to know:
    traversing up directories.
 3) An example of a valid payload to read the flag would be `/file?school=....//....//proc/1/environ`.
 
-> Related: *Path traversal*
+> Related: *Path Traversal*
 
 </details>
 

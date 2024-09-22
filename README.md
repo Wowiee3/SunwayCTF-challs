@@ -3,11 +3,11 @@
 ## Web
 - [Robots](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_robots)
 - [Schools](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_schools)
-- [web_nasi_kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
+- [Nasi Kandar](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_nasi_kandar) 
 - [web_shopping_spree_real_fun](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_shopping_spree_real_fun) 
 - [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)
 - [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
-- [redacted](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/redacted)
+- [Redacted](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/redacted)
 - [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)
 
 ## Crypto

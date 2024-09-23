@@ -43,5 +43,5 @@
 
 ## Misc
 - [Sit Back and Relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax)
-- [guessTheFlag](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/guessTheFlag)
+- [guessTheFlag](/misc_guesstheflag)
 - [pyLocker](/misc_pylocker)

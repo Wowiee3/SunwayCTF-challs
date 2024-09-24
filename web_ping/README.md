@@ -7,8 +7,8 @@
 | Category       | Web                                                              |
 | Description    | My security friend said my uni ping project has a serious bug??? |
 | Challenge Type | Dynamic Docker                                                   |
-| Docker Image   | sunctf_web_ping (port 5004)                                      |
-| Flag           | sunctf{uNLimited_moNey_iS_so_C00l}                               |
+| Docker Image   | sunctf_web_ping (port 5006)                                      |
+| Flag           | sunctf{R3ad_doc5_d0nt_blindlY_c0PY}                              |
 | Score          | ???                                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*

@@ -7,7 +7,7 @@
 | Category       | Web                                                                                                            |
 | Description    | The solution to this challenge is: Read the `flag` by <REDACTED - this has violated our community guidelines.> |
 | Challenge Type | Dynamic Docker                                                                                                 |
-| Docker Image   | sunctf_web_redacted (port 80)                                                                                  |
+| Docker Image   | sunctf_web_redacted (port 5004)                                                                                |
 | Flag           | sunctf{wh0_c4m3_up_w17h_7h15_8r1ll14n7_f347ur3}                                                                |
 | Score          | ???                                                                                                            |
 

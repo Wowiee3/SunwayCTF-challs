@@ -6,7 +6,7 @@
 - [Nasi Kandar](/web_nasi-kandar)
 - [Shopping Spree Real Fun](/web_shopping-spree-real-fun)
 - [Redacted](/web_redacted)
-- [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
+- [Data Analeaktics](/web_data-analeaktics) (!! Building...)
 - [Ping](/web_ping)
 
 ## Crypto

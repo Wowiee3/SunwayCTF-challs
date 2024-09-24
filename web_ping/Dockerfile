@@ -14,6 +14,6 @@ RUN chown -R root:root /app && \
 
 USER ctfuser
 
-EXPOSE 5004
+EXPOSE 5006
 
 CMD [ "python3", "app.py" ]

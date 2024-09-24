@@ -1,6 +1,28 @@
-## Call of Protocols
-It must work, it must be secure, it should be as fast as reasonably possible, it must be modular/extensible, it must be easy to read/understand
+# Call of Protocols
 
-Flag: `sunctf{tls_and_ssl_are_brothers}`
+| Key            | Value                                                             |
+|----------------|-------------------------------------------------------------------|
+| Challenge Name | Call of Protocols                                                 |
+| Author         | warlocksmurf                                                      |
+| Category       | Forensics                                                         |
+| Description    | It must work, it must be secure, it should be as fast as reasonably possible, it must be modular/extensible, it must be easy to read/understand      |
+| Challenge Type | Static                                                            |
+| Flag           | sunctf{tls_and_ssl_are_brothers}                                  |
+| Score          | ???                                                               |
 
-Extract HTTP objects for sslkey log file and another pcap > Use the sslkey log file to decrypt the packets in the other pcap 
+*File(s) in `attachments/` are distributed to the participants.*
+
+## Solution
+
+<details>
+<summary>Click to expand</summary>
+
+1) Extract HTTP objects for a sslkey log file and a PCAP file
+
+![sol1](/call-of-protocols/docs/sol1.png)
+
+2) Use the sslkey log file to decrypt the TLS packets in the other PCAP file
+
+![sol2](/call-of-protocols/docs/sol2.png)
+
+</details>

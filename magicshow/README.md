@@ -2,7 +2,7 @@
 
 | Key            | Value                                                             |
 |----------------|-------------------------------------------------------------------|
-| Challenge Name | Bot                                                               |
+| Challenge Name | Magic Show                                                        |
 | Author         | warlocksmurf                                                      |
 | Category       | Forensics                                                         |
 | Description    | Before my final exams, I enjoy scratching my head and tail I don't know why... Maybe my dandruff will turn into magic bytes? |

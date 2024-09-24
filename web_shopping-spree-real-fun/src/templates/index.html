@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <title>Mugz Shop</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .center {
+            margin-top: 20rem;
+            font-size: 1.5rem;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+        }
+
+        a:hover {
+            text-decoration: none;
+            color: rgb(255, 255, 255, 0.5)
+        }
+
+        span {
+            padding-right: 1rem;
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="{{ url_for('shop') }}">Mugz Shop</a>
+    <button aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"
+            data-target="#navbarText" data-toggle="collapse" type="button">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <span>
+            <a href="{{ url_for('register') }}">Register</a>
+          </span>
+    <span>
+            <a href="{{ url_for('login') }}">Login</a>
+          </span>
+    <span>
+            <a href="{{ url_for('invite') }}">Waiting List</a>
+          </span>
+</nav>
+<br>
+<div class="container">
+    <div class="center">Invite only exclusive shop.</div>
+</div>
+</body>
+</html>

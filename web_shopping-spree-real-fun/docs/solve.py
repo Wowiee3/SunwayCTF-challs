@@ -38,6 +38,6 @@ r = s.get(URL + "/account")
 
 match = re.search(pattern, r.text)
 if match:
-    print(f"[*] Flag found {match.group()}")
+    print(match.group())
 else:
     print("[*] Flag not found")

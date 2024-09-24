@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <title>Mugz Shop</title>
+    <style>
+        form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        input {
+            margin-top: 0.5rem;
+            width: 100%;
+
+        }
+
+        label {
+            margin-top: 0.5rem;
+        }
+
+        a {
+            font-size: 15px;
+            text-decoration: none;
+            color: rgb(34, 33, 33);
+        }
+
+        a:hover {
+            text-decoration: none;
+            color: rgba(34, 33, 33, 0.8)
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="{{ url_for('index') }}">Mugz Shop</a>
+    <button aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"
+            data-target="#navbarText" data-toggle="collapse" type="button">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</nav>
+<br>
+<div class="bg">
+    <div class="container text-center">
+        <h1>Request admin to be invited</h1>
+    </div>
+    <div class="container text-center ">
+        {% if message %}
+        <div class="alert-danger alert">
+            {{ message }}
+        </div>
+        {% endif %}
+    </div>
+    <br>
+    <form action="/invite" method="POST">
+        <div class="mb-3">
+            <label class="form-label" for="username">Username</label>
+            <input class="form-control" id="username" name="username" type="text">
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="password">Password</label>
+            <input class="form-control" id="password" name="password" type="password">
+        </div>
+        <input name="path" type="hidden" value="/admin">
+        <br>
+        <button class="btn btn-primary" style="width:10%" type="submit">Submit</button>
+    </form>
+</div>
+</body>
+</html>

@@ -23,7 +23,7 @@ def ping():
         custom_error_msg = 'Request Timed Out!'
         return render_template('index.html', result=custom_error_msg)
     except subprocess.CalledProcessError:
-        custom_error_msg = 'An error occured'
+        custom_error_msg = 'An error occurred'
         return render_template('index.html', result=custom_error_msg)
 
 if __name__ == '__main__':

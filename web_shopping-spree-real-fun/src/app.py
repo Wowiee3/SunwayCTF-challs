@@ -11,10 +11,14 @@ PORT = 5003
 
 @app.route('/')
 def index():
+    if session:
+        return redirect('/account')
     return render_template('index.html')
 
 @app.route('/invite' ,methods=["GET", "POST"])
 def invite():
+    if session:
+        return redirect('/account')
     if request.method == "GET":
         return render_template('invite.html')
         
@@ -36,11 +40,13 @@ def admin():
             
 @app.route('/register', methods=["GET"])
 def register():
+    if session:
+        return redirect('/account')
     if request.remote_addr == "127.0.0.1":
         username = request.args.get("username", os.urandom(32))
         password = request.args.get("password", "fakepass")
         
-        if len(password) < 8: # Prevent weak passwords
+        if len(password) < 1:
             return ""
         
         hashed = sha256(f'{password}'.encode('utf-8')).hexdigest()
@@ -72,6 +78,8 @@ def register():
     
 @app.route('/login',methods=["GET","POST"])
 def login():
+    if session:
+        return redirect('/account')
     if request.method == "GET":
         return render_template('login.html')
         
@@ -174,7 +182,8 @@ def purchase(item_id):
     
 @app.route('/logout')
 def logout():
-    session.pop('username')
+    session.pop('user_id', None)
+    session.pop('username', None)
     return redirect('/')
 
 if __name__ == '__main__':

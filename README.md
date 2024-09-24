@@ -3,16 +3,15 @@
 ## Web
 - [Robots](/web_robots)
 - [Schools](/web_schools)
-- [Nasi Kandar](/web_nasi-kandar) 
-- [web_shopping_spree_real_fun](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_shopping_spree_real_fun) 
-- [web_ping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/web_ping)
-- [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
+- [Nasi Kandar](/web_nasi-kandar)
+- [Shopping Spree Real Fun](/web_shopping-spree-real-fun)
 - [Redacted](/web_redacted)
-- [<unnamed_acc_takeover> (prototyping)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/unnamed_acc_takeover)
+- [data-analeaktics](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/data-analeaktics)
+- [Ping](/web_ping)
 
 ## Crypto
 - [Bot](/crypto_bot)
-- [base64](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/base64)
+- [base64](/crypto_base64)
 - [babyRSA](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyRSA)
 - [babyAES](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyAES)
 - [House Keys](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/housekeys)
@@ -32,7 +31,7 @@
 ## Rev
 - [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner)
 - [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy)
-- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy)
+- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun.)
 - [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1%3A1) (medium)
 
 ## OSINT

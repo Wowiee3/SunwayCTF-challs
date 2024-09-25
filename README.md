@@ -12,9 +12,9 @@
 ## Crypto
 - [Bot](/crypto_bot)
 - [base64](/crypto_base64)
-- [babyRSA](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyRSA)
-- [babyAES](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyAES)
-- [House Keys](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/housekeys)
+- [babyRSA](/crypto_babyrsa)
+- [babyAES](/crypto_babyaes)
+- [House Keys](/crypto_house-keys)
 
 ## Forensics
 - [Babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)

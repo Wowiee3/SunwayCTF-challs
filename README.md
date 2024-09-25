@@ -36,7 +36,7 @@
 - [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1%3A1) (medium)
 
 ## OSINT
-- [Promo OSINT](/osint_promo-osint) (!! Flag not known.)
+- [Promo OSINT](/osint_promo-osint)
 - [Motto](/osint_motto)
 - [eyesClosed](/osint_eyesclosed)
 - [HR Department (1-4)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department) (!! Auto reply not working.)

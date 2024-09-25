@@ -7,7 +7,7 @@
 | Category       | OSINT                                                                                     |
 | Description    | Can you find the hidden flag in our promotion post for this CTF?<br>Hint: It's encrypted! |
 | Challenge Type | Static                                                                                    |
-| Flag           | sunctf{b4z1ng4}                                                                                       |
+| Flag           | sunctf{b4z1ng4}                                                                           |
 | Score          | 20                                                                                        |
 
 ## Solution
@@ -17,9 +17,12 @@
 
 Super ez social media OSINT. Flag is hidden in a line of text in the promo post on CSC's instagram, encoded in base64.
 
-</details>
+![The instagram post](docs/post.png)
 
-> ```
-> >>> b("c3VuY3Rme2IOejFuZzR9")
-> b'sunctf{b\x0ez1ng4}
-> ```
+```python
+>>> from base64 import b64decode
+>>> b64decode('c3VuY3Rme2I0ejFuZzR9')
+b'sunctf{b4z1ng4}'
+```
+
+</details>

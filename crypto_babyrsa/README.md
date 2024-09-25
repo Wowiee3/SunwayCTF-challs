@@ -24,4 +24,4 @@ Factor `n` using [factordb.com](factordb.com) then decrypt the message in the st
 Note: `docs/solve.py` can be used to check if the challenge is working as intended. It will solve the challenge and get
 the flag.
 
-Note: `attachments/babyRSA.txt` is generated using `docs/chall.py`.
+Note: `attachments/babyRSA.txt` was generated from `docs/chall.py`.

@@ -23,4 +23,8 @@
    openssl pkeyutl -decrypt -inkey private_key.pem -in flag.txt.enc -out flag.txt
    ```
 
+   Or you can do with a script.
 </details>
+
+Note: `docs/solve.py` can be used to check if the challenge is working as intended. It will solve the challenge and get
+the flag.

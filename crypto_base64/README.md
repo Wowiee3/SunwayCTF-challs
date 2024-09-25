@@ -24,4 +24,4 @@ The solution is in the description. See [how we did it using Python](/docs/solve
 Note: `docs/solve.py` can be used to check if the challenge is working as intended. It will solve the challenge and get
 the flag.
 
-Note: `attachments/base64.txt` is generated using `docs/chall.py`.
+Note: `attachments/base64.txt` was generated from `docs/chall.py`.

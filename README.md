@@ -12,6 +12,7 @@
 ## Crypto
 - [Bot](/crypto_bot)
 - [base64](/crypto_base64)
+- [Keyboard](/crypto_keyboard)
 - [babyRSA](/crypto_babyrsa)
 - [babyAES](/crypto_babyaes)
 - [House Keys](/crypto_house-keys)

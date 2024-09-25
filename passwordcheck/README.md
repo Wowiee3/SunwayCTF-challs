@@ -10,3 +10,5 @@ Flag format: sunctf{correct_password}
 HINT: The password is stored as a string.
 
 You can either strings this binary, or reverse it. Either one will give you the password and plaintext flag.
+
+Flag: sunctf{ineedscissors61}

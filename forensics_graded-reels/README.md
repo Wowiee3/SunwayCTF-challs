@@ -19,6 +19,6 @@
 
 1) Adjust the height of the JPG image to reveal the flag. https://cyberhacktics.com/hiding-information-by-changing-an-images-height/
 
-![sol](/gradedreels/docs/sol.png)
+   ![sol](docs/sol.png)
 
 </details>

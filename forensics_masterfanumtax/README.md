@@ -1,14 +1,14 @@
 # MasterFanumTax
 
-| Key            | Value                                                             |
-|----------------|-------------------------------------------------------------------|
-| Challenge Name | MasterFanumTax                                                    |
-| Author         | warlocksmurf                                                      |
-| Category       | Forensics                                                         |
-| Description    | A secret code was stored in a text file on the Documents folder, can you recover it?      |
-| Challenge Type | Static                                                            |
-| Flag           | sunctf{b4s1cs_0f_mft}                                             |
-| Score          | ???                                                               |
+| Key            | Value                                                                                |
+|----------------|--------------------------------------------------------------------------------------|
+| Challenge Name | MasterFanumTax                                                                       |
+| Author         | warlocksmurf                                                                         |
+| Category       | Forensics                                                                            |
+| Description    | A secret code was stored in a text file on the Documents folder, can you recover it? |
+| Challenge Type | Static                                                                               |
+| Flag           | sunctf{b4s1cs_0f_mft}                                                                |
+| Score          | ???                                                                                  |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

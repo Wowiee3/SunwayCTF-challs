@@ -31,9 +31,9 @@
 
 ## Rev
 - [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner)
-- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy)
-- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun.)
-- [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1%3A1) (medium)
+- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy) (!! Thinking of making flag into char array to protect against `strings`)
+- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun. Thinking of making integer overflow while maintaining the same game flow)
+- [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1%3A1) (medium) (!! Thinking of reading flag from server to protect against `strings`)
 - [Loong](/rev_loong)
 
 ## OSINT

@@ -18,14 +18,14 @@
 - [House Keys](/crypto_house-keys)
 
 ## Forensics
-- [Babyshark](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/babyshark)
-- [MasterFanumTax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/masterfanumtax)
-- [Magic Show](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/magicshow)
-- [Graded Reels](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/gradedreels)
-- [LuffySeemsBroken](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/LuffySeemsBroken)
-- [Zelda's Phishing Pond](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/zeldaphishingpond)
-- [Call of Protocols](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/call-of-protocols)
-- [Graduation Letter](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/graduation-letter)
+- [Babyshark](/forensics_babyshark)
+- [MasterFanumTax](/forensics_masterfanumtax)
+- [Magic Show](/forensics_magic-show)
+- [Graded Reels](/forensics_graded-reels)
+- [LuffySeemsBroken](/forensics_luffyseemsbroken)
+- [Zelda's Phishing Pond](/forensics_zeldas-phishing-pond)
+- [Call of Protocols](/forensics_call-of-protocols)
+- [Graduation Letter](/forensics_graduation-letter)
 - [Lost Memories (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
 - [Sussy Disk (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
 

@@ -34,6 +34,7 @@
 - [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy)
 - [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun.)
 - [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1%3A1) (medium)
+- [Loong](/rev_loong)
 
 ## OSINT
 - [Promo OSINT](/osint_promo-osint)

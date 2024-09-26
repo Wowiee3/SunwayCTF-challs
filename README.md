@@ -1,48 +1,48 @@
 # CTF Challenges for CSC Internal CTF 2024
 
 ## Web
-- [Robots](/web_robots)
-- [Schools](/web_schools)
-- [Nasi Kandar](/web_nasi-kandar)
-- [Shopping Spree Real Fun](/web_shopping-spree-real-fun)
-- [Redacted](/web_redacted)
+- [Robots](/web_robots) Add to CTF
+- [Schools](/web_schools) 
+- [Nasi Kandar](/web_nasi-kandar) Add to CTF
+- [Shopping Spree Real Fun](/web_shopping-spree-real-fun) Add to CTF
+- [Redacted](/web_redacted) 
 - [Data Analeaktics](/web_data-analeaktics) (!! Building...)
-- [Ping](/web_ping)
+- [Ping](/web_ping) Add to CTF
 
 ## Crypto
-- [Bot](/crypto_bot)
-- [base64](/crypto_base64)
-- [Keyboard](/crypto_keyboard)
-- [babyRSA](/crypto_babyrsa)
-- [babyAES](/crypto_babyaes)
-- [House Keys](/crypto_house-keys)
+- [Bot](/crypto_bot) Add to CTF
+- [base64](/crypto_base64) Add to CTF
+- [Keyboard](/crypto_keyboard) 
+- [babyRSA](/crypto_babyrsa) Add to CTF
+- [babyAES](/crypto_babyaes) Add to CTF
+- [House Keys](/crypto_house-keys) Add to CTF midway
 
 ## Forensics
-- [Babyshark](/forensics_babyshark)
-- [MasterFanumTax](/forensics_masterfanumtax)
-- [Magic Show](/forensics_magic-show)
-- [Graded Reels](/forensics_graded-reels)
-- [LuffySeemsBroken](/forensics_luffyseemsbroken)
-- [Zelda's Phishing Pond](/forensics_zeldas-phishing-pond)
+- [Babyshark](/forensics_babyshark) Add to CTF
+- [MasterFanumTax](/forensics_masterfanumtax) Add to CTF, I think beginners need more hints to use MFT
+- [Magic Show](/forensics_magic-show) Add to CTF
+- [Graded Reels](/forensics_graded-reels) Add to CTF
+- [LuffySeemsBroken](/forensics_luffyseemsbroken) Add to CTF
+- [Zelda's Phishing Pond](/forensics_zeldas-phishing-pond) Add to CTF midway
 - [Call of Protocols](/forensics_call-of-protocols)
-- [Graduation Letter](/forensics_graduation-letter)
+- [Graduation Letter](/forensics_graduation-letter) Add to CTF
 - [Lost Memories (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
-- [Sussy Disk (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk)
+- [Sussy Disk (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk) Add to CTF
 
 ## Rev
-- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner)
+- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner) Add to CTF
 - [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy) (!! Thinking of making flag into char array to protect against `strings`)
 - [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun. Thinking of making integer overflow while maintaining the same game flow)
-- [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1%3A1) (medium) (!! Thinking of reading flag from server to protect against `strings`)
-- [Loong](/rev_loong)
+- [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1-to-1) (medium) (!! Thinking of reading flag from server to protect against `strings`) <- I totally overlooked this LOL
+- [Loong](/rev_loong) Add to CTF
 
 ## OSINT
-- [Promo OSINT](/osint_promo-osint)
-- [Motto](/osint_motto)
-- [eyesClosed](/osint_eyesclosed)
+- [Promo OSINT](/osint_promo-osint) Add to CTF
+- [Motto](/osint_motto) Add to CTF
+- [eyesClosed](/osint_eyesclosed) Add to CTF
 - [HR Department (1-4)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department) (!! Auto reply not working.)
 
 ## Misc
-- [Sit Back and Relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax)
-- [guessTheFlag](/misc_guesstheflag)
-- [pyLocker](/misc_pylocker)
+- [Sit Back and Relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax) Add to CTF
+- [guessTheFlag](/misc_guesstheflag) Add to CTF
+- [pyLocker](/misc_pylocker) Add to CTF

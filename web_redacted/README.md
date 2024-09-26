@@ -14,7 +14,6 @@
 *`src/db.sql` is a reserved filename to initialise the database on first run. It will be deleted automatically right
 after the database has been set up.*
 
-![Screenshot](docs/screenshot.png)
 
 ## Solution
 

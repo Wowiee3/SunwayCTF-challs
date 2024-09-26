@@ -43,6 +43,6 @@
 - [HR Department (1-4)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department) (!! Auto reply not working.)
 
 ## Misc
-- [Sit Back and Relax](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sit-back-and-relax) Add to CTF
+- [Sit Back and Relax](/web_sit-back-and-relax) (!! Problematic Dockerfile) Add to CTF
 - [guessTheFlag](/misc_guesstheflag) Add to CTF
 - [pyLocker](/misc_pylocker) Add to CTF

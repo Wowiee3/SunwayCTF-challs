@@ -35,6 +35,7 @@
 - [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun. Thinking of making integer overflow while maintaining the same game flow)
 - [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1-to-1) (medium) (!! Thinking of reading flag from server to protect against `strings`) <- I totally overlooked this LOL
 - [Loong](/rev_loong) Add to CTF
+- [Packman](/rev_packman) (!! New, to check)
 
 ## OSINT
 - [Promo OSINT](/osint_promo-osint) Add to CTF

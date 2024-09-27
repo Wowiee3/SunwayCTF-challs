@@ -35,7 +35,7 @@ DICE = '536e616b6548617465734c616464657273496e4d79496e666f537465616c6572'
 def decrypt_flag(LADDERS, DICE):
     DICE = bytes.fromhex(DICE)
     LADDERS = bytes.fromhex(LADDERS)
-    cipher = Cipher(algorithms.AES(DICE), modes.ECB(), default_backend(), **('backend',))
+    cipher = Cipher(algorithms.AES(DICE), modes.ECB())
     decryptor = cipher.decryptor()
     decrypted_padded = decryptor.update(LADDERS) + decryptor.finalize()
     unpadder = padding.PKCS7(algorithms.AES.block_size).unpadder()

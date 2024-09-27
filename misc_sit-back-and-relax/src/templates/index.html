@@ -8,11 +8,11 @@
 </head>
 <body>
 {% if flag %}
-<h1>Error 418: I'm a teapot</h1>
+    <h1>Error 418: I'm a teapot</h1>
 
-<p>You attempted to BREW coffee with a teapot. This is going to be the last time I do you the favour.</p>
+    <p>You attempted to BREW coffee with a teapot. This is going to be the last time I do you the favour.</p>
 
-<pre>
+    <pre>
                           (
                         )     (
                  ___...(-------)-....___
@@ -37,21 +37,22 @@ jgs \""--..__                              __..--""/
                       `"""----"""`
 </pre>
 
-<p>Please find a coffee machine next time.</p>
+    <p>Please find a coffee machine next time.</p>
 
-<a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">See what HTCPCP is.</a>
+    <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">See what HTCPCP is.</a>
 {% else %}
-<h2>The server is running<span id="run">...</span></h2>
-<img src="{{ url_for('static', filename='server.jpg') }}" alt="server" width="500">
+    <h2>The server is running<span id="run">...</span></h2>
+    <img src="{{ url_for('static', filename='server.jpg') }}" alt="server" width="500">
+    <h6>Today's date: 1 April 2014</h6>
 
-<script>
-    var counter = 0;
-    setInterval(() => {
-        document.getElementById('run').innerText = '.'.repeat(counter);
-        counter++;
-        counter %= 4;
-    }, 800);
-</script>
+    <script>
+        var counter = 0;
+        setInterval(() => {
+            document.getElementById('run').innerText = '.'.repeat(counter);
+            counter++;
+            counter %= 4;
+        }, 800);
+    </script>
 {% endif %}
 </body>
 </html>

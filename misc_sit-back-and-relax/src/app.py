@@ -14,6 +14,11 @@ def index(path):
 def flag(path):
     return Response(render_template('index.html', flag=True), status=418)
 
+@app.route('/', defaults={'path': ''}, methods=['POST'])
+@app.route('/<path:path>', methods=['POST'])
+def hint(path):
+    return Response("Quite close! But it is deprecated, RFC 2324.", status=503)
+
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host="0.0.0.0", port=1338)

@@ -26,8 +26,8 @@
 - [Zelda's Phishing Pond](/forensics_zeldas-phishing-pond) Add to CTF midway
 - [Call of Protocols](/forensics_call-of-protocols)
 - [Graduation Letter](/forensics_graduation-letter) Add to CTF
-- [Lost Memories (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/lostmemories)
-- [Sussy Disk (1-5)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/sussydisk) Add to CTF
+- [Lost Memories (1-5)](/forensics_lost-memories)
+- [Sussy Disk (1-5)](/forensics_sussydisk) Add to CTF
 
 ## Rev
 - [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner) Add to CTF
@@ -43,6 +43,6 @@
 - [HR Department (1-4)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department) (!! Auto reply not working.)
 
 ## Misc
-- [Sit Back and Relax](/web_sit-back-and-relax) (!! Problematic Dockerfile) Add to CTF
+- [Sit Back and Relax](/misc_sit-back-and-relax) (!! Problematic Dockerfile) Add to CTF
 - [guessTheFlag](/misc_guesstheflag) Add to CTF
 - [pyLocker](/misc_pylocker) Add to CTF

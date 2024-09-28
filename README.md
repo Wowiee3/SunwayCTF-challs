@@ -31,8 +31,8 @@
 - [Sussy Disk (1-5)](/forensics_sussydisk) Add to CTF
 
 ## Rev
-- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) Add to CTF
-- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (!! Sorta fixed strings issue)
+- [stringsme](/rev_stringsme) Add to CTF
+- [Password Check](/rev_password-check) (!! Update: Noted wowiee, I recompiled it on Windows, so that both Linux and Windows users are happy with this chall. Btw, do you know why there are random characters in between the password when i `strings` it? U try and see)
 - [1:1](/rev_1-1) (!! Update: dockerized, read from file)
 - [Packman](/rev_packman)
 - [Loong](/rev_loong) Add to CTF

@@ -31,9 +31,8 @@
 - [Sussy Disk (1-5)](/forensics_sussydisk) Add to CTF
 
 ## Rev
-- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner) Add to CTF
-- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy) (!! Sorta fixed strings issue)
-- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun. Thinking of making integer overflow while maintaining the same game flow)
+- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) Add to CTF
+- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (!! Sorta fixed strings issue)
 - [1:1](/rev_1-1) (!! Update: dockerized, read from file)
 - [Packman](/rev_packman)
 - [Loong](/rev_loong) Add to CTF

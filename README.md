@@ -41,7 +41,7 @@
 - [Promo OSINT](/osint_promo-osint) Add to CTF
 - [Motto](/osint_motto) Add to CTF
 - [eyesClosed](/osint_eyesclosed) Add to CTF
-- [HR Department (1-4)](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/hr-department) (!! Auto reply not working.)
+- [HR Department (1-4)](/osint_hr-department)
 
 ## Misc
 - [Sit Back and Relax](/misc_sit-back-and-relax) Add to CTF

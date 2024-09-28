@@ -30,12 +30,12 @@
 - [Sussy Disk (1-5)](/forensics_sussydisk) Add to CTF
 
 ## Rev
-- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) (beginner) Add to CTF
-- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (easy) (!! Thinking of making flag into char array to protect against `strings`)
-- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (easy) (!! Replicate of web_shopping-spree-real-fun. Thinking of making integer overflow while maintaining the same game flow)
-- [1:1](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/1-to-1) (medium) (!! Thinking of reading flag from server to protect against `strings`) <- I totally overlooked this LOL
+- [stringsme](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/stringsme) Add to CTF
+- [passwordcheck](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/passwordcheck) (!! Thinking of making flag into char array to protect against `strings`)
+- [shopping](https://github.com/Wowiee3/SunwayCTF-challs/tree/main/shopping) (!! Replicate of web_shopping-spree-real-fun. Thinking of making integer overflow while maintaining the same game flow)
+- [1:1](/rev_1-1)
+- [Packman](/rev_packman)
 - [Loong](/rev_loong) Add to CTF
-- [Packman](/rev_packman) (!! New, to check)
 
 ## OSINT
 - [Promo OSINT](/osint_promo-osint) Add to CTF

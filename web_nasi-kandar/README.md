@@ -1,15 +1,15 @@
 # Nasi Kandar
 
-| Key            | Value                                                |
-|----------------|------------------------------------------------------|
-| Challenge Name | Nasi Kandar                                          |
-| Author         | chuajianshen                                         |
-| Category       | Web                                                  |
-| Description    | Guess the price of your *nasi kandar* to win a flag. |
-| Challenge Type | Dynamic Docker                                       |
-| Docker Image   | sunctf_web_nasi-kandar (port 80)                     |
-| Flag           | sunctf{mySQL_is_insensItive_strict_is_the_B3st}      |
-| Score          | ???                                                  |
+| Key            | Value                                                  |
+|----------------|--------------------------------------------------------|
+| Challenge Name | Nasi Kandar                                            |
+| Author         | chuajianshen                                           |
+| Category       | Web                                                    |
+| Description    | Guess the price of your *nasi kandar* to win a flag.   |
+| Challenge Type | Dynamic Docker                                         |
+| Docker Image   | sunctf_web_nasi-kandar (port 5002)                     |
+| Flag           | sunctf{mySQL_is_insensItive_strict_is_the_B3st}        |
+| Score          | ???                                                    |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

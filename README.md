@@ -1,49 +1,49 @@
 # CTF Challenges for CSC Internal CTF 2024
 
 ## Web
-- [Robots](/web_robots) Add to CTF
-- [Schools](/web_schools) 
-- [Nasi Kandar](/web_nasi-kandar) Add to CTF
-- [Shopping Spree Real Fun](/web_shopping-spree-real-fun) Add to CTF
-- [Redacted](/web_redacted) 
+- [Robots](/web_robots)
+- [Schools](/web_schools)
+- [Nasi Kandar](/web_nasi-kandar)
+- [Shopping Spree Real Fun](/web_shopping-spree-real-fun)
+- [Redacted](/web_redacted)
 - [Data Analeaktics](/web_data-analeaktics) (!! Building...)
-- [Ping](/web_ping) Add to CTF
+- [Ping](/web_ping)
 
-## Crypto
-- [Bot](/crypto_bot) Add to CTF
-- [base64](/crypto_base64) Add to CTF
-- [ROTten](/crypto_rotten) Add to CTF
+## Crypto ✔
+- [Bot](/crypto_bot)
+- [base64](/crypto_base64)
+- [ROTten](/crypto_rotten)
 - [Keyboard](/crypto_keyboard) 
-- [babyRSA](/crypto_babyrsa) Add to CTF
-- [babyAES](/crypto_babyaes) Add to CTF
-- [House Keys](/crypto_house-keys) Add to CTF midway
+- [babyRSA](/crypto_babyrsa)
+- [babyAES](/crypto_babyaes)
+- [House Keys](/crypto_house-keys)
 
-## Forensics
-- [Babyshark](/forensics_babyshark) Add to CTF
-- [MasterFanumTax](/forensics_masterfanumtax) Add to CTF, I think beginners need more hints to use MFT
-- [Magic Show](/forensics_magic-show) Add to CTF
-- [Graded Reels](/forensics_graded-reels) Add to CTF
-- [LuffySeemsBroken](/forensics_luffyseemsbroken) Add to CTF
-- [Zelda's Phishing Pond](/forensics_zeldas-phishing-pond) Add to CTF midway
+## Forensics ✔
+- [Babyshark](/forensics_babyshark)
+- [MasterFanumTax](/forensics_masterfanumtax)
+- [Magic Show](/forensics_magic-show)
+- [Graded Reels](/forensics_graded-reels)
+- [LuffySeemsBroken](/forensics_luffyseemsbroken)
+- [Zelda's Phishing Pond](/forensics_zeldas-phishing-pond)
 - [Call of Protocols](/forensics_call-of-protocols)
-- [Graduation Letter](/forensics_graduation-letter) Add to CTF
+- [Graduation Letter](/forensics_graduation-letter)
 - [Lost Memories (1-5)](/forensics_lost-memories)
-- [Sussy Disk (1-5)](/forensics_sussydisk) Add to CTF
+- [Sussy Disk (1-5)](/forensics_sussydisk)
 
 ## Rev
-- [stringsme](/rev_stringsme) Add to CTF
-- [Password Check](/rev_password-check) (!! Update: Noted wowiee, I recompiled it on Windows, so that both Linux and Windows users are happy with this chall. Btw, do you know why there are random characters in between the password when i `strings` it? U try and see)
-- [1:1](/rev_1-1) (!! Update: dockerized, read from file)
+- [stringsme](/rev_stringsme)
+- [Password Check](/rev_password-check)
+- [1:1](/rev_1-1)
 - [Packman](/rev_packman)
-- [Loong](/rev_loong) Add to CTF
+- [Loong](/rev_loong)
 
-## OSINT
-- [Promo OSINT](/osint_promo-osint) Add to CTF
-- [Motto](/osint_motto) Add to CTF
-- [eyesClosed](/osint_eyesclosed) Add to CTF
+## OSINT ✔
+- [Promo OSINT](/osint_promo-osint)
+- [Motto](/osint_motto)
+- [eyesClosed](/osint_eyesclosed)
 - [HR Department (1-4)](/osint_hr-department)
 
 ## Misc
-- [Sit Back and Relax](/misc_sit-back-and-relax) Add to CTF
-- [guessTheFlag](/misc_guesstheflag) Add to CTF
-- [pyLocker](/misc_pylocker) Add to CTF
+- [Sit Back and Relax](/misc_sit-back-and-relax)
+- [guessTheFlag](/misc_guesstheflag)
+- [pyLocker](/misc_pylocker)

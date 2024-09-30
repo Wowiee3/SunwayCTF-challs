@@ -10,8 +10,6 @@
 | Flag           | sunctf{the_c00l_yaksha}                                                                                                                     |
 | Score          | ???                                                                                                                                         |
 
-*File(s) in `attachments/` are distributed to the participants.*
-
 ## Solution
 
 <details>

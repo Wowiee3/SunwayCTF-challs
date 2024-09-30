@@ -1,14 +1,14 @@
 # Lost Memories 1
 
-| Key            | Value                                                                                                                                                                                                                         |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Challenge Name | Lost Memories 1                                                                                                                                                                                                               |
-| Author         | warlocksmurf                                                                                                                                                                                                                  |
-| Category       | Forensics                                                                                                                                                                                                                     |
-| Description    | We managed to recover a memory dump from the compromised machine and require your analysis to obtain information about the attack. Can you identify when was the memory dump taken. Format: sunctf{2020-01-01 12:00:00+00:00} |
-| Challenge Type | Static                                                                                                                                                                                                                        |
-| Flag           | sunctf{2024-09-10 13:58:14+00:00}                                                                                                                                                                                             |
-| Score          | ???                                                                                                                                                                                                                           |
+| Key            | Value                                                                                                                                                                                                                                          |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Lost Memories 1                                                                                                                                                                                                                                |
+| Author         | warlocksmurf                                                                                                                                                                                                                                   |
+| Category       | Forensics                                                                                                                                                                                                                                      |
+| Description    | We managed to recover a memory dump from the compromised machine and require your analysis to obtain information about the attack. Can you identify when was the memory dump taken.<br><br>Flag format: `sunctf{2020-01-01 12:00:00+00:00}`. |
+| Challenge Type | Static                                                                                                                                                                                                                                         |
+| Flag           | sunctf{2024-09-10 13:58:14+00:00}                                                                                                                                                                                                              |
+| Score          | ???                                                                                                                                                                                                                                            |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -85,15 +85,15 @@ warlocksmurf    1001    aad3b435b51404eeaad3b435b51404ee        e7edb365ce429af0
 
 # Lost Memories 3
 
-| Key            | Value                                                                                                                                                                                   |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Challenge Name | Lost Memories 3                                                                                                                                                                         |
-| Author         | warlocksmurf                                                                                                                                                                            |
-| Category       | Forensics                                                                                                                                                                               |
-| Description    | The victim accidentally executed a malicious executable in the system. What was the malicious executable called, its process ID and parent process ID? Format: sunctf{abc.exe_PID_PPID} |
-| Challenge Type | Static                                                                                                                                                                                  |
-| Flag           | sunctf{inject0r.exe_5904_7780}                                                                                                                                                          |
-| Score          | ???                                                                                                                                                                                     |
+| Key            | Value                                                                                                                                                                                                       |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Lost Memories 3                                                                                                                                                                                             |
+| Author         | warlocksmurf                                                                                                                                                                                                |
+| Category       | Forensics                                                                                                                                                                                                   |
+| Description    | The victim accidentally executed a malicious executable in the system. What was the malicious executable called, its process ID and parent process ID?<br><br>Flag format: `sunctf{abc.exe_PID_PPID}`. |
+| Challenge Type | Static                                                                                                                                                                                                      |
+| Flag           | sunctf{inject0r.exe_5904_7780}                                                                                                                                                                              |
+| Score          | ???                                                                                                                                                                                                         |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

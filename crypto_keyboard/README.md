@@ -1,14 +1,14 @@
 # Keyboard
 
-| Key            | Value                                                                                                                   |
-|----------------|-------------------------------------------------------------------------------------------------------------------------|
-| Challenge Name | Keyboard                                                                                                                |
-| Author         | wolfishLamb                                                                                                             |
-| Category       | Crypto                                                                                                                  |
-| Description    | What's wrong with my keyboard?<br><br>Decrypt `cipher.txt` and the last word is your flag, submit it as `sunctf{word}`. |
-| Challenge Type | Static                                                                                                                  |
-| Flag           | sunctf{nowiknowmyabc}                                                                                                   |
-| Score          | ???                                                                                                                     |
+| Key            | Value                                                                                                                            |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Keyboard                                                                                                                         |
+| Author         | wolfishLamb                                                                                                                      |
+| Category       | Crypto                                                                                                                           |
+| Description    | What's wrong with my keyboard?<br><br>Decrypt `cipher.txt`. The last word in the file is your flag, submit it as `sunctf{word}`. |
+| Challenge Type | Static                                                                                                                           |
+| Flag           | sunctf{nowiknowmyabc}                                                                                                            |
+| Score          | ???                                                                                                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

@@ -1,14 +1,14 @@
 # Motto
 
-| Key            | Value                                                               |
-|----------------|---------------------------------------------------------------------|
-| Challenge Name | Motto                                                               |
-| Author         | warlocksmurf                                                        |
-| Category       | OSINT                                                               |
-| Description    | What is our university's motto? Format: sunctf{Motto Of The School} |
-| Challenge Type | Static                                                              |
-| Flag           | sunctf{Fortuna Eruditis Favet}                                      |
-| Score          | ???                                                                 |
+| Key            | Value                                                                              |
+|----------------|------------------------------------------------------------------------------------|
+| Challenge Name | Motto                                                                              |
+| Author         | warlocksmurf                                                                       |
+| Category       | OSINT                                                                              |
+| Description    | What is our university's motto?<br><br>Flag format: `sunctf{Motto Of The School}`. |
+| Challenge Type | Static                                                                             |
+| Flag           | sunctf{Fortuna Eruditis Favet}                                                     |
+| Score          | ???                                                                                |
 
 
 ## Solution

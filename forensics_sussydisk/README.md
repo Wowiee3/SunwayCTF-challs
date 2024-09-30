@@ -50,15 +50,15 @@
 
 # Sussy Disk 3
 
-| Key            | Value                                                                                                                                            |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Challenge Name | Sussy Disk 3                                                                                                                                     |
-| Author         | warlocksmurf                                                                                                                                     |
-| Category       | Forensics                                                                                                                                        |
-| Description    | The forensics team needs to know the answers of the backup questions created by the victim. Can you retrieve them? Format: sunctf{Ans1_Ans2_An3} |
-| Challenge Type | Static                                                                                                                                           |
-| Flag           | sunctf{Wowiee_SuperTsumu_Shen}                                                                                                                   |
-| Score          | ???                                                                                                                                              |
+| Key            | Value                                                                                                                                                             |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Sussy Disk 3                                                                                                                                                      |
+| Author         | warlocksmurf                                                                                                                                                      |
+| Category       | Forensics                                                                                                                                                         |
+| Description    | The forensics team needs to know the answers of the backup questions created by the victim. Can you retrieve them?<br><br>Flag format: `sunctf{Ans1_Ans2_An3}`. |
+| Challenge Type | Static                                                                                                                                                            |
+| Flag           | sunctf{Wowiee_SuperTsumu_Shen}                                                                                                                                    |
+| Score          | ???                                                                                                                                                               |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

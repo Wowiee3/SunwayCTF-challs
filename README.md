@@ -1,6 +1,6 @@
 # CTF Challenges for CSC Internal CTF 2024
 
-## Web
+## Web ✔
 - [Robots](/web_robots)
 - [Schools](/web_schools)
 - [Nasi Kandar](/web_nasi-kandar)
@@ -43,7 +43,7 @@
 - [eyesClosed](/osint_eyesclosed)
 - [HR Department (1-4)](/osint_hr-department)
 
-## Misc
+## Misc ✔
 - [Sit Back and Relax](/misc_sit-back-and-relax)
 - [guessTheFlag](/misc_guesstheflag)
 - [pyLocker](/misc_pylocker)

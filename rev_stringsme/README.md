@@ -17,7 +17,7 @@
 <details>
 <summary>Click to expand</summary>
 
-Ez rev chall, just `strings` the `stringsme` file, or you can search for printable characters with a script.
+Ez rev chall, just `strings` the `stringsme.exe` file, or you can search for printable characters with a script.
 
 ```
 strings stringsme | grep sunctf

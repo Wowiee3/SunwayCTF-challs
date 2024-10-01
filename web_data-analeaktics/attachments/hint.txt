@@ -1,0 +1,28 @@
+MariaDB [sunctf]> desc customers;
++---------+-----------------------+------+-----+---------+----------------+
+| Field   | Type                  | Null | Key | Default | Extra          |
++---------+-----------------------+------+-----+---------+----------------+
+| id      | mediumint(8) unsigned | NO   | PRI | NULL    | auto_increment |
+| name    | varchar(255)          | YES  |     | NULL    |                |
+| email   | varchar(255)          | YES  |     | NULL    |                |
+| address | varchar(255)          | YES  |     | NULL    |                |
+| phone   | varchar(100)          | YES  |     | NULL    |                |
+| country | varchar(100)          | YES  |     | NULL    |                |
++---------+-----------------------+------+-----+---------+----------------+
+6 rows in set (0.005 sec)
+
+MariaDB [sunctf]> desc flag;
++-------+--------------+------+-----+---------+-------+
+| Field | Type         | Null | Key | Default | Extra |
++-------+--------------+------+-----+---------+-------+
+| value | varchar(255) | YES  |     | NULL    |       |
++-------+--------------+------+-----+---------+-------+
+1 row in set (0.001 sec)
+
+MariaDB [sunctf]> select count(*) from flag;
++----------+
+| count(*) |
++----------+
+|        1 |
++----------+
+1 row in set (0.003 sec)

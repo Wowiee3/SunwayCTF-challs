@@ -6,7 +6,7 @@
 - [Nasi Kandar](/web_nasi-kandar)
 - [Shopping Spree Real Fun](/web_shopping-spree-real-fun)
 - [Redacted](/web_redacted)
-- [Data Analeaktics](/web_data-analeaktics) (!! Building...)
+- [Data Analeaktics](/web_data-analeaktics)
 - [Ping](/web_ping)
 
 ## Crypto ✔
@@ -30,7 +30,7 @@
 - [Lost Memories (1-5)](/forensics_lost-memories)
 - [Sussy Disk (1-5)](/forensics_sussydisk)
 
-## Rev
+## Rev ✔
 - [stringsme](/rev_stringsme)
 - [Password Check](/rev_password-check)
 - [1:1](/rev_1-1)

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABC Company</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .customers-list {
+            margin-bottom: 30px;
+        }
+
+        label {
+            display: block;
+            margin: 10px 0 5px;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        textarea,
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #218838;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f8f9fa;
+        }
+
+        .customer-form {
+            margin-bottom: 20px;
+        }
+
+        label {
+            margin-right: 10px;
+        }
+
+        select {
+            padding: 5px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <h1>ABC Company</h1>
+
+    <div class="customer-form" id="customerForm">
+        <label for="sortBy">Sort By:</label>
+        <select id="sortBy">
+            <option value="id">ID</option>
+            <option value="name">Name</option>
+            <option value="email">Email</option>
+            <option value="address">Address</option>
+            <option value="phone">Phone</option>
+            <option value="country">Country</option>
+        </select>
+
+        <label for="order">Order:</label>
+        <select id="order">
+            <option value="asc">Ascending</option>
+            <option value="desc">Descending</option>
+        </select>
+        <button id="searchButton">Search</button>
+    </div>
+
+    <div class="customers-list">
+        <table>
+            <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Address</th>
+                <th>Phone</th>
+                <th>Country</th>
+            </tr>
+            </thead>
+            <tbody id="dataTable">
+            <!-- Results will be populated here dynamically -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+    async function fetchCustomers(sortBy = 'id', order = 'asc') {
+        try {
+            const params = new URLSearchParams({
+                sortBy: sortBy + ' ' + order,
+            });
+            const response = await fetch(`/search?${params}`);
+            const data = await response.json();
+
+            console.log('Data fetched from server:', data);  // Log fetched data
+
+            if (!Array.isArray(data)) {
+                throw new Error('Unexpected response format');
+            }
+
+            const dataTable = document.getElementById('dataTable');
+            dataTable.innerHTML = ''; // Clear the table first
+
+            data.forEach(record => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                <td>${record.id}</td>
+                <td>${record.name}</td>
+                <td>${record.email}</td>
+                <td>${record.address}</td>
+                <td>${record.phone}</td>
+                <td>${record.country}</td>
+              `;
+                dataTable.appendChild(row);
+            });
+        } catch (error) {
+            console.error('Error fetching data:', error);
+            alert('There was an error fetching the orders. Please try again.');
+        }
+    }
+
+    fetchCustomers();
+
+    document.getElementById('searchButton').addEventListener('click', () => {
+        const sortBy = document.getElementById('sortBy').value;
+        const order = document.getElementById('order').value;
+        fetchCustomers(sortBy, order);
+    });
+</script>
+</body>
+</html>

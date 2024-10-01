@@ -1,14 +1,14 @@
 # Password Check
 
-| Key            | Value                                                                                                                                                                                  |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Challenge Name | Password Check                                                                                                                                                                         |
-| Author         | Wowiee3                                                                                                                                                                                |
-| Category       | Rev                                                                                                                                                                                    |
-| Description    | I hear its amazing when the famous purple stuffed worm in flap-jaw space with the tuning fork does a raw blink on Hara Kiri Rock.<br><br>Flag format: `sunctf{correct_password}`. |
-| Challenge Type | Static                                                                                                                                                                                 |
-| Flag           | sunctf{us3str1ng5}                                                                                                                                                                     |
-| Score          | ???                                                                                                                                                                                    |
+| Key            | Value                                                                                                                                                                                       |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Password Check                                                                                                                                                                              |
+| Author         | Wowiee3                                                                                                                                                                                     |
+| Category       | Rev                                                                                                                                                                                         |
+| Description    | I hear its amazing when the famous purple stuffed worm in flap-jaw space with the tuning fork does a raw blink on Hara Kiri Rock.<br><br>Flag format: `sunctf{correct_password}`.      |
+| Challenge Type | Static                                                                                                                                                                                      |
+| Flag           | sunctf{ineedscissors61}                                                                                                                                                                     |
+| Score          | ???                                                                                                                                                                                         |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

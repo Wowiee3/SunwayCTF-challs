@@ -44,6 +44,7 @@
 - [HR Department (1-4)](/osint_hr-department)
 
 ## Misc ✔
+- [Primer](/misc_primer)
 - [Sit Back and Relax](/misc_sit-back-and-relax)
 - [guessTheFlag](/misc_guesstheflag)
 - [pyLocker](/misc_pylocker)

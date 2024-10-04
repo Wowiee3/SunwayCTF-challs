@@ -56,3 +56,6 @@ end
    `__flag` method name is replaced with `_SunLocker__flag` in the `SunLocker` class.
 
 </details>
+
+Note: `docs/solve.py` can be used to check if the challenge is working as intended. It will solve the challenge and get
+the flag.

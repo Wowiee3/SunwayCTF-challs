@@ -39,5 +39,8 @@ Things to know:
 
 </details>
 
+Warn: If you are using ctfd-whale, the plugin will write a generated flag to the ENV named `FLAG`. Overwrite this 
+behavior or avoid using `FLAG` in ENV to prevent the true flag getting overwritten.
+
 Note: `docs/solve.py` can be used to check if the challenge is working as intended. It will solve the challenge and get
 the flag.

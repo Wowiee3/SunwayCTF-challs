@@ -5,7 +5,7 @@ ENV PORT 5001
 
 RUN adduser --disabled-password $USER
 
-ENV FLAG=sunctf{ea5h_pr0cess_ha5_1ts_oWn_PID}
+ENV YOUR_FLAG_HERE=sunctf{ea5h_pr0cess_ha5_1ts_oWn_PID}
 
 WORKDIR /app
 

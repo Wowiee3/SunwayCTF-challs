@@ -9,7 +9,7 @@
 | Challenge Type | Dynamic Docker                                                                                                                            |
 | Docker Image   | sunctf_misc_pylocker (port 1337)                                                                                                          |
 | Flag           | sunctf{m4Rv3l0u5_pY7h0N_5Ki115}                                                                                                           |
-| Score          | ???                                                                                                                                       |
+| Score          | 300                                                                                                                                       |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

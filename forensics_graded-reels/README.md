@@ -1,14 +1,14 @@
 # Graded Reels
 
-| Key            | Value                                                             |
-|----------------|-------------------------------------------------------------------|
-| Challenge Name | Graded Reels                                                      |
-| Author         | warlocksmurf                                                      |
-| Category       | Forensics                                                         |
+| Key            | Value                                                                            |
+|----------------|----------------------------------------------------------------------------------|
+| Challenge Name | Graded Reels                                                                     |
+| Author         | warlocksmurf                                                                     |
+| Category       | Forensics                                                                        |
 | Description    | After grading my friend's Instagram reels, I gave him the flag as a reward.      |
-| Challenge Type | Static                                                            |
-| Flag           | sunctf{cr0pped_1nst4gr4m_ch4t_jpg}                                |
-| Score          | ???                                                               |
+| Challenge Type | Static                                                                           |
+| Flag           | sunctf{cr0pped_1nst4gr4m_ch4t_jpg}                                               |
+| Score          | 150                                                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

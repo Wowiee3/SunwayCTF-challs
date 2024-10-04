@@ -8,7 +8,7 @@
 | Description    | Dr House encrypted the flag with his public key, but he accidentally left his private key on the table. |
 | Challenge Type | Static                                                                                                  |
 | Flag           | sunctf{d0ct0r_h0us3_l0st_h1s_k3ys}                                                                      |
-| Score          | ???                                                                                                     |
+| Score          | 150                                                                                                     |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

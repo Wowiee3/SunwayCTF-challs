@@ -9,7 +9,7 @@
 | Challenge Type | Dynamic Docker                                                   |
 | Docker Image   | sunctf_web_ping (port 5006)                                      |
 | Flag           | sunctf{R3ad_doc5_d0nt_blindlY_c0PY}                              |
-| Score          | ???                                                              |
+| Score          | 200                                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

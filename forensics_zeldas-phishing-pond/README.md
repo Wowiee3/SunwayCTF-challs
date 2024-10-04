@@ -8,7 +8,7 @@
 | Description    | I received a beta test for the new Zelda game from a random company, I hope it's legitimate... |
 | Challenge Type | Static                                                                                         |
 | Flag           | sunctf{f4k3_L3gends_0f_lnk_and_Zelda_g4m3?!}                                                   |
-| Score          | ???                                                                                            |
+| Score          | 200                                                                                            |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

@@ -8,7 +8,7 @@
 | Description    | The forensics team recently recovered a disk image from a compromised machine. Your job as an intern is to help uncover what the attacker had done to the compromised machine and what artifacts you can dig up for the final report. After infiltrating the machine, the attacker searched up some suspicious stuff on the Internet, I wonder what was the attacker looking for? |
 | Challenge Type | Static                                                                                                                                                                                                                                                                                                                                                                           |
 | Flag           | sunctf{g00gle_the_g0at}                                                                                                                                                                                                                                                                                                                                                          |
-| Score          | ???                                                                                                                                                                                                                                                                                                                                                                              |
+| Score          | 100                                                                                                                                                                                                                                                                                                                                                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -33,7 +33,7 @@
 | Description    | The victim mentioned that one of his file was missing from the machine, the attacker might have deleted it. |
 | Challenge Type | Static                                                                                                      |
 | Flag           | sunctf{remember_your_handles}                                                                               |
-| Score          | ???                                                                                                         |
+| Score          | 150                                                                                                         |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -58,7 +58,7 @@
 | Description    | The forensics team needs to know the answers of the backup questions created by the victim. Can you retrieve them?<br><br>Flag format: `sunctf{Ans1_Ans2_An3}`. |
 | Challenge Type | Static                                                                                                                                                            |
 | Flag           | sunctf{Wowiee_SuperTsumu_Shen}                                                                                                                                    |
-| Score          | ???                                                                                                                                                               |
+| Score          | 300                                                                                                                                                               |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -84,7 +84,7 @@
 | Description    | The attacker attempted to access a confidential ZIP file stored somewhere in the machine. The attacker was also known to be a huge fan of PowerShell. |
 | Challenge Type | Static                                                                                                                                               |
 | Flag           | sunctf{powershell_is_my_favourite_language}                                                                                                          |
-| Score          | ???                                                                                                                                                  |
+| Score          | 400                                                                                                                                                  |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -110,7 +110,7 @@
 | Description    | Finally, it is time to identify the malware and understand its functions. The flag has 3 parts. |
 | Challenge Type | Static                                                                                          |
 | Flag           | sunctf{malware_analysis_is_not_that_hard}                                                       |
-| Score          | ???                                                                                             |
+| Score          | 500                                                                                             |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

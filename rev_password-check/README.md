@@ -8,7 +8,7 @@
 | Description    | I hear its amazing when the famous purple stuffed worm in flap-jaw space with the tuning fork does a raw blink on Hara Kiri Rock.<br><br>Flag format: `sunctf{correct_password}`.      |
 | Challenge Type | Static                                                                                                                                                                                      |
 | Flag           | sunctf{ineedscissors61}                                                                                                                                                                     |
-| Score          | ???                                                                                                                                                                                         |
+| Score          | 100                                                                                                                                                                                         |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

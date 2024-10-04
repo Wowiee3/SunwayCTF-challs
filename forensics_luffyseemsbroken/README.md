@@ -8,7 +8,7 @@
 | Description    | Have you read One Piece? I heard Luffy has a new significant Gear coming up. |
 | Challenge Type | Static                                                                       |
 | Flag           | sunctf{lsb_and_pixels}                                                       |
-| Score          | ???                                                                          |
+| Score          | 150                                                                          |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

@@ -8,7 +8,7 @@
 | Description    | Here's a little executable file for you. Can you find the flag using the strings command? |
 | Challenge Type | Static                                                                                    |
 | Flag           | sunctf{us3str1ng5}                                                                        |
-| Score          | ???                                                                                       |
+| Score          | 50                                                                                        |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

@@ -8,7 +8,7 @@
 | Description    | Before my final exams, I enjoy scratching my head and tail I don't know why... Maybe my dandruff will turn into magic bytes? |
 | Challenge Type | Static                                                                                                                       |
 | Flag           | sunctf{h1dd3n_1n_pla1n_s1ght}                                                                                                |
-| Score          | ???                                                                                                                          |
+| Score          | 100                                                                                                                          |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

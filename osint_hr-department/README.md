@@ -8,7 +8,7 @@
 | Description    | Hello, you've reached SunwayCSC! Please contact Xiao for further inquiries with our team. You can reach out to him at xiaoooi123@gmail.com. |
 | Challenge Type | Static                                                                                                                                      |
 | Flag           | sunctf{the_c00l_yaksha}                                                                                                                     |
-| Score          | ???                                                                                                                                         |
+| Score          | 50                                                                                                                                         |
 
 ## Solution
 
@@ -36,7 +36,7 @@
 | Description    | A cybersecurity meetup was held at Sunway University sometime this year, but our friend Garry could not make it. I wonder what Garry is up to lately other than being a Discord moderator in a server. Flag format: sunctf{all_lower_case} |
 | Challenge Type | Static                                                                                                                                                                                                                                     |
 | Flag           | sunctf{wizard_of_legends}                                                                                                                                                                                                                  |
-| Score          | ???                                                                                                                                                                                                                                        |
+| Score          | 150                                                                                                                                                                                                                                        |
 
 ## Solution
 
@@ -70,7 +70,7 @@
 | Description    | What is the name of the new hangout location mentioned by Gorlock? Flag format: sunctf{sunway_university}. |
 | Challenge Type | Static                                                                                                     |
 | Flag           | sunctf{piccoli_lotti}                                                                                      |
-| Score          | ???                                                                                                        |
+| Score          | 200                                                                                                        |
 
 ## Solution
 
@@ -95,7 +95,7 @@
 | Description    | Someone recently got certified from Skibidi Toilet Academy, I assume he will be posting it on job sites? |
 | Challenge Type | Static                                                                                                   |
 | Flag           | sunctf{b0nus_0s1nt_4_y0u!}                                                                               |
-| Score          | ???                                                                                                      |
+| Score          | 500                                                                                                      |
 
 ## Solution
 

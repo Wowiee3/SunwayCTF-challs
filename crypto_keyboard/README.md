@@ -8,7 +8,7 @@
 | Description    | What's wrong with my keyboard?<br><br>Decrypt `cipher.txt`. The last word in the file is your flag, submit it as `sunctf{word}`. |
 | Challenge Type | Static                                                                                                                           |
 | Flag           | sunctf{nowiknowmyabc}                                                                                                            |
-| Score          | ???                                                                                                                              |
+| Score          | 200                                                                                                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

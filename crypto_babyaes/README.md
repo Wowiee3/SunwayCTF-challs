@@ -8,7 +8,7 @@
 | Description    | I assume you paid attention during cryptography classes? |
 | Challenge Type | Static                                                   |
 | Flag           | sunctf{l34rn_y0ur_AES_b4s1cs_1n_cl4ss}                   |
-| Score          | ???                                                      |
+| Score          | 100                                                      |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

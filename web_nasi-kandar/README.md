@@ -9,7 +9,7 @@
 | Challenge Type | Dynamic Docker                                         |
 | Docker Image   | sunctf_web_nasi-kandar (port 5002)                     |
 | Flag           | sunctf{mySQL_is_insensItive_strict_is_the_B3st}        |
-| Score          | ???                                                    |
+| Score          | 150                                                    |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

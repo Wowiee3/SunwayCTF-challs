@@ -8,7 +8,7 @@
 | Description    | Who invited this bot to the CTF and why is he speaking like that? |
 | Challenge Type | Static                                                            |
 | Flag           | sunctf{mR_r0b0t_1s_a_r0b0t?!}                                     |
-| Score          | ???                                                               |
+| Score          | 50                                                                |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

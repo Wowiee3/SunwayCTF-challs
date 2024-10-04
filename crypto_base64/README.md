@@ -8,7 +8,7 @@
 | Description    | `base64.txt` contains the flag encoded in base64, multiple times. |
 | Challenge Type | Static                                                            |
 | Flag           | sunctf{did_you_script_this?}                                      |
-| Score          | ???                                                               |
+| Score          | 100                                                               |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

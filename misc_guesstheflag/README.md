@@ -9,7 +9,7 @@
 | Challenge Type | Dynamic Docker                                   |
 | Docker Image   | sunctf_misc_guesstheflag (port 8888)             |
 | Flag           | sunctf{c4n7_7h1nk_0f_fl46_n4m35}                 |
-| Score          | ???                                              |
+| Score          | 400                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

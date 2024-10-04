@@ -8,7 +8,7 @@
 | Description    | A secret code was stored in a text file on the Documents folder, can you recover it using only the MFT? |
 | Challenge Type | Static                                                                               |
 | Flag           | sunctf{b4s1cs_0f_mft}                                                                |
-| Score          | ???                                                                                  |
+| Score          | 100                                                                                  |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

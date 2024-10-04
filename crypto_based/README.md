@@ -8,7 +8,7 @@
 | Description    | ![Based](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3l3eZXpFbq4FacsDtLn3FueRWYVyzcPdiMg&s) |
 | Challenge Type | Static                                                                                                 |
 | Flag           | sunctf{based_on_deez_nutz}                                                                             |
-| Score          | ???                                                                                                    |
+| Score          | 50                                                                                                     |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

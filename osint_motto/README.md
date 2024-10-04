@@ -8,7 +8,7 @@
 | Description    | What is our university's motto?<br><br>Flag format: `sunctf{Motto Of The School}`. |
 | Challenge Type | Static                                                                             |
 | Flag           | sunctf{Fortuna Eruditis Favet}                                                     |
-| Score          | ???                                                                                |
+| Score          | 50                                                                                 |
 
 
 ## Solution

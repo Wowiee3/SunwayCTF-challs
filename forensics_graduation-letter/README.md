@@ -8,7 +8,7 @@
 | Description    | Hope my friend can see this letter so that he knows I am graduating next month. |
 | Challenge Type | Static                                                                          |
 | Flag           | sunctf{leaRn_y0uR_stegan0}                                                      |
-| Score          | ???                                                                             |
+| Score          | 200                                                                             |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

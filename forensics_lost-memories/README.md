@@ -8,7 +8,7 @@
 | Description    | We managed to recover a memory dump from the compromised machine and require your analysis to obtain information about the attack. Can you identify when was the memory dump taken.<br><br>Flag format: `sunctf{2020-01-01 12:00:00+00:00}`. |
 | Challenge Type | Static                                                                                                                                                                                                                                         |
 | Flag           | sunctf{2024-09-10 13:58:14+00:00}                                                                                                                                                                                                              |
-| Score          | ???                                                                                                                                                                                                                                            |
+| Score          | 100                                                                                                                                                                                                                                            |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -57,7 +57,7 @@ PE TimeDateStamp        Mon Dec  9 11:07:51 2019
 | Description    | What is the password of the system user? |
 | Challenge Type | Static                                   |
 | Flag           | sunctf{love_sunway}                      |
-| Score          | ???                                      |
+| Score          | 150                                      |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -93,7 +93,7 @@ warlocksmurf    1001    aad3b435b51404eeaad3b435b51404ee        e7edb365ce429af0
 | Description    | The victim accidentally executed a malicious executable in the system. What was the malicious executable called, its process ID and parent process ID?<br><br>Flag format: `sunctf{abc.exe_PID_PPID}`. |
 | Challenge Type | Static                                                                                                                                                                                                      |
 | Flag           | sunctf{inject0r.exe_5904_7780}                                                                                                                                                                              |
-| Score          | ???                                                                                                                                                                                                         |
+| Score          | 200                                                                                                                                                                                                         |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -130,7 +130,7 @@ PID     PPID    ImageFileName   Offset(V)       Threads Handles SessionId       
 | Description    | The malicious executable injected the flag into its child process, can you retrieve the flag back? |
 | Challenge Type | Static                                                                                             |
 | Flag           | sunctf{v0latility_is_l0v3}                                                                         |
-| Score          | ???                                                                                                |
+| Score          | 300                                                                                                |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -177,7 +177,7 @@ flagsSelectW
 | Description    | The victim kept his study notes somewhere in the machine. Can you recover his study notes and analyze it to make sure it is safe before handing it to him. |
 | Challenge Type | Static                                                                                                                                                     |
 | Flag           | sunctf{vba_macros_are_dangerous}                                                                                                                           |
-| Score          | ???                                                                                                                                                        |
+| Score          | 500                                                                                                                                                        |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

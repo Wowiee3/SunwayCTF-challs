@@ -8,7 +8,7 @@
 | Description    | It must work, it must be secure, it should be as fast as reasonably possible, it must be modular/extensible, it must be easy to read/understand. |
 | Challenge Type | Static                                                                                                                                           |
 | Flag           | sunctf{tls_and_ssl_are_brothers}                                                                                                                 |
-| Score          | ???                                                                                                                                              |
+| Score          | 200                                                                                                                                              |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

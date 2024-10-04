@@ -8,7 +8,7 @@
 | Description    | Can you find the hidden flag in our promotion post for this CTF?<br>Hint: It's encrypted! |
 | Challenge Type | Static                                                                                    |
 | Flag           | sunctf{b4z1ng4}                                                                           |
-| Score          | 20                                                                                        |
+| Score          | 100                                                                                       |
 
 ## Solution
 

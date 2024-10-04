@@ -9,7 +9,7 @@
 | Challenge Type | Dynamic Docker                                                                                                                                               |
 | Docker Image   | sunctf_misc_sit-back-and-relax (port 1338)                                                                                                                   |
 | Flag           | sunctf{n3v3r_8r3W_c0ff33_1n_4_734p07}                                                                                                                        |
-| Score          | ???                                                                                                                                                          |
+| Score          | 100                                                                                                                                                          |
 
 *Hint 0: All the pages are the same, there is no hidden page.* \
 *Hint 1: Look closely on EVERYTHING you can see. Know what to do to get the flag?* \

@@ -9,7 +9,7 @@
 | Challenge Type | Dynamic Docker                                                   |
 | Docker Image   | sunctf_web_shopping-spree-real-fun (port 5003)                   |
 | Flag           | sunctf{uNLimited_moNey_iS_so_C00l}                               |
-| Score          | ???                                                              |
+| Score          | 200                                                              |
 
 ![Screenshot](docs/screenshot.png)
 

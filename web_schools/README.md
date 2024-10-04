@@ -9,7 +9,7 @@
 | Challenge Type | Static Docker                                                                           |
 | Docker Image   | sunctf_web_schools (port 5001)                                                          |
 | Flag           | sunctf{ea5h_pr0cess_ha5_1ts_oWn_PID}                                                    |
-| Score          | ???                                                                                     |
+| Score          | 200                                                                                     |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

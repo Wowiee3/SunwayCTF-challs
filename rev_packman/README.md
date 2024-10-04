@@ -8,7 +8,7 @@
 | Description    | Why does Pythonidae not pack his food before work? |
 | Challenge Type | Static                                             |
 | Flag           | sunctf{Pyth0n_fr0m_zZz_0r_c0de}                    |
-| Score          | ???                                                |
+| Score          | 300                                                |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

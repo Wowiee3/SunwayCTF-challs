@@ -8,7 +8,7 @@
 | Description    | Did you attend the CTF primer? |
 | Challenge Type | Static                         |
 | Flag           | sunctf{th4nks4c0ming}          |
-| Score          | ???                            |
+| Score          | 50                             |
 
 
 ## Solution

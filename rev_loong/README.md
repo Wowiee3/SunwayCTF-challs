@@ -8,7 +8,7 @@
 | Description    | Nothing to tell, take a close look at the EXE. |
 | Challenge Type | Static                                         |
 | Flag           | sunctf{g00d_St4rT1ng_w1tH_x0RRR}               |
-| Score          | ???                                            |
+| Score          | 300                                            |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

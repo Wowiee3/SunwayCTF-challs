@@ -8,7 +8,7 @@
 | Description    | Something lurks within the PCAP...can you GET a closer look?      |
 | Challenge Type | Static                                                            |
 | Flag           | sunctf{baby_shark_doo_doo}                                        |
-| Score          | ???                                                               |
+| Score          | 100                                                               |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

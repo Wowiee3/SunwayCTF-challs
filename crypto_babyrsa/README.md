@@ -8,7 +8,7 @@
 | Description    | Obligatory RSA challenge. `n` is only 256 bits, you got this. |
 | Challenge Type | Static                                                        |
 | Flag           | sunctf{did_you_listen_in_class?}                              |
-| Score          | ???                                                           |
+| Score          | 150                                                           |
 
 File(s) in `attachments/` are distributed to the participants.
 

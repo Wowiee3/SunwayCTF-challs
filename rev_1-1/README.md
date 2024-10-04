@@ -9,7 +9,7 @@
 | Challenge Type | Static Docker                                                                                                                                                       |
 | Docker Image   | sunctf_rev_1-1 (port 8889)                                                                                                                                          |
 | Flag           | sunctf{not_the_only_1}                                                                                                                                              |
-| Score          | ???                                                                                                                                                                 |
+| Score          | 200                                                                                                                                                                 |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

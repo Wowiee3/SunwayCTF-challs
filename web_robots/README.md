@@ -9,7 +9,7 @@
 | Challenge Type | Static Docker                          |
 | Docker Image   | jaredliw/sunctf_web_robots (port 5000) |
 | Flag           | sunctf{rAndom_is_n0t_truly_rand0m}     |
-| Score          | ???                                    |
+| Score          | 100                                    |
 
 ![Screenshot](docs/screenshot.png)
 

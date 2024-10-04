@@ -21,5 +21,7 @@
 It is a good solution as long as you get the flag. See [how we solve it](docs/solve.py).
 </details>
 
+Warn: If you are trying to build and run the container from scratch, make sure that you are using LF in `src/guessTheFlag.sh` to prevent error.
+
 Note: `docs/solve.py` can be used to check if the challenge is working as intended. It will solve the challenge and get
 the flag.

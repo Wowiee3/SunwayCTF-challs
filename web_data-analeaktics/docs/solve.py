@@ -11,6 +11,6 @@ while flag == "" or flag[-1] != '}':
 
         if r[0]['id'] != 1:
             flag += chr(ascii_code - 1)
-            print(flag[-1], end='')
+            print(flag[-1], end='', flush=True)
             idx += 1
             break

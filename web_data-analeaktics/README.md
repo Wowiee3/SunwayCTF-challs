@@ -9,7 +9,7 @@
 | Challenge Type | Dynamic Docker                                                                               |
 | Docker Image   | sunctf_web_data-analeaktics (port 5004)                                                      |
 | Flag           | sunctf{1nJ3c7ion_1n_0rd3R_bY_cL@Us3}                                                         |
-| Score          | ???                                                                                          |
+| Score          | 400                                                                                          |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

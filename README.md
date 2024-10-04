@@ -1,4 +1,13 @@
-# CTF Challenges for CSC Internal CTF 2024
+<p align="center">
+    <img src="/logo.png" alt="SunCTF logo" width="300">
+</p>
+
+<h3 align="center">SunCTF 2024</h3>
+
+<p align="center">
+  A CTF hosted by Sunway Cyber Security Club (CSC).
+</p>
+
 
 ## Web ✔
 - [Robots](/web_robots)

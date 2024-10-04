@@ -48,3 +48,6 @@ curl --request BREW <the_server_url>
 ```
 
 </details>
+
+Note: `docs/solve.py` can be used to check if the challenge is working as intended. It will solve the challenge and get
+the flag.

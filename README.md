@@ -54,6 +54,7 @@
 - [eyesClosed](/osint_eyesclosed)
 
 ## Misc ✔
+- [Discord](/misc_discord)
 - [Primer](/misc_primer)
 - [Sit Back and Relax](/misc_sit-back-and-relax)
 - [pyLocker](/misc_pylocker)

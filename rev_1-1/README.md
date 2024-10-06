@@ -7,7 +7,7 @@
 | Category       | Rev                                                                                                                                                                 |
 | Description    | You need a valid key to get the flag. 'Valid' and 'correct' aren't the same thing, though...<br>It's recommended to use a disassembler/debugger for this challenge. |
 | Challenge Type | Static Docker                                                                                                                                                       |
-| Docker Image   | sunctf_rev_1-1 (port 8889)                                                                                                                                          |
+| Docker Image   | [jaredliw/sunctf_rev_1-1](https://hub.docker.com/repository/docker/jaredliw/sunctf_rev_1-1/general) (port 8889)                                                     |
 | Flag           | sunctf{not_the_only_1}                                                                                                                                              |
 | Score          | 200                                                                                                                                                                 |
 

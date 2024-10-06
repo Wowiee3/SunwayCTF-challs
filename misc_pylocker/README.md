@@ -7,7 +7,7 @@
 | Category       | Misc                                                                                                                                      |
 | Description    | At Sunway campus, locker rentals offer a secure place to store your belongings. But remember, your digital valuables need protection too! |
 | Challenge Type | Dynamic Docker                                                                                                                            |
-| Docker Image   | sunctf_misc_pylocker (port 1337)                                                                                                          |
+| Docker Image   | [jaredliw/sunctf_misc_pylocker](https://hub.docker.com/repository/docker/jaredliw/sunctf_misc_pylocker/general) (port 1337)               |
 | Flag           | sunctf{m4Rv3l0u5_pY7h0N_5Ki115}                                                                                                           |
 | Score          | 300                                                                                                                                       |
 
@@ -22,6 +22,7 @@ The goal of this challenge is to call the method in `SunLocker` class by inputti
 be sanitised -- imports, calls and function/class declarations are **not allowed**.
 
 Payload:
+
 ```
 PublicLocker.__bases__ = (SunLocker, )
 PublicLocker.__add__ = print

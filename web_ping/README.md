@@ -1,15 +1,15 @@
 # Ping
 
-| Key            | Value                                                            |
-|----------------|------------------------------------------------------------------|
-| Challenge Name | Ping                                                             |
-| Author         | chuajianshen                                                     |
-| Category       | Web                                                              |
-| Description    | My security friend said my uni ping project has a serious bug??? |
-| Challenge Type | Dynamic Docker                                                   |
-| Docker Image   | sunctf_web_ping (port 5006)                                      |
-| Flag           | sunctf{R3ad_doc5_d0nt_blindlY_c0PY}                              |
-| Score          | 200                                                              |
+| Key            | Value                                                                                                             |
+|----------------|-------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Ping                                                                                                              |
+| Author         | chuajianshen                                                                                                      |
+| Category       | Web                                                                                                               |
+| Description    | My security friend said my uni ping project has a serious bug???                                                  |
+| Challenge Type | Dynamic Docker                                                                                                    |
+| Docker Image   | [jaredliw/sunctf_web_ping](https://hub.docker.com/repository/docker/jaredliw/sunctf_web_ping/general) (port 5006) |
+| Flag           | sunctf{R3ad_doc5_d0nt_blindlY_c0PY}                                                                               |
+| Score          | 200                                                                                                               |
 
 *File(s) in `attachments/` are distributed to the participants.*
 

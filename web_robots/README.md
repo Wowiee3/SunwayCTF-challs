@@ -1,15 +1,15 @@
 # Robots
 
-| Key            | Value                                  |
-|----------------|----------------------------------------|
-| Challenge Name | Robots                                 |
-| Author         | chuajianshen                           |
-| Category       | Web                                    |
-| Description    | Yet another robots web challenge.      |
-| Challenge Type | Static Docker                          |
-| Docker Image   | jaredliw/sunctf_web_robots (port 5000) |
-| Flag           | sunctf{rAndom_is_n0t_truly_rand0m}     |
-| Score          | 100                                    |
+| Key            | Value                                                                                                                 |
+|----------------|-----------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Robots                                                                                                                |
+| Author         | chuajianshen                                                                                                          |
+| Category       | Web                                                                                                                   |
+| Description    | Yet another robots web challenge.                                                                                     |
+| Challenge Type | Static Docker                                                                                                         |
+| Docker Image   | [jaredliw/sunctf_web_robots](https://hub.docker.com/repository/docker/jaredliw/sunctf_web_robots/general) (port 5000) |
+| Flag           | sunctf{rAndom_is_n0t_truly_rand0m}                                                                                    |
+| Score          | 100                                                                                                                   |
 
 ![Screenshot](docs/screenshot.png)
 

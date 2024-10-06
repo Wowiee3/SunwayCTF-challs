@@ -7,7 +7,7 @@
 | Category       | Misc                                                                                                                                                         |
 | Description    | Feeling tired after all those challenges? Take a break and have some coffee! Request the server to brew some coffee, probably it will dispense you the flag. |
 | Challenge Type | Dynamic Docker                                                                                                                                               |
-| Docker Image   | sunctf_misc_sit-back-and-relax (port 1338)                                                                                                                   |
+| Docker Image   | [jaredliw/sunctf_misc_sit-back-and-relax](https://hub.docker.com/repository/docker/jaredliw/sunctf_misc_sit-back-and-relax/general) (port 1338)              |
 | Flag           | sunctf{n3v3r_8r3W_c0ff33_1n_4_734p07}                                                                                                                        |
 | Score          | 100                                                                                                                                                          |
 
@@ -16,7 +16,6 @@
 *Hint 2: Send a POST request and see.* \
 *Hint 3: Where is the source of the teapot image?* \
 *Final hint: Do you know HTCPCP?*
-
 
 ![Screenshot](docs/screenshot.png)
 
@@ -35,8 +34,8 @@ Hidden hints:
 1) The challenge description hints that the server will dispense the flag if you "request" it to "brew" some coffee.
 2) The date shown is the date HTCPCP proposed.
 3) If you request any pages using a POST method, you will get a deprecated message and the message "RFC 2324".
-4) The teapot image is the back-end infrastructure of [error418.net](http://error418.net/), which implements HTCPCP 
-   using a teapot and Raspberry Pi. 
+4) The teapot image is the back-end infrastructure of [error418.net](http://error418.net/), which implements HTCPCP
+   using a teapot and Raspberry Pi.
 5) On the Wikipedia page for HTCPCP, you can find the `BREW` method, which asks the server to brew coffee.
    ![Wiki - HTCPCP](docs/wiki.png)
 

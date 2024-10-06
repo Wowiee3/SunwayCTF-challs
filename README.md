@@ -8,8 +8,11 @@
   A CTF hosted by Sunway Cyber Security Club (CSC).
 </p>
 
+There are a total of 50 challenges in SunCTF 2024, with categories ranging from Web, Cryptography, Forensics, Reverse
+Engineering, OSINT and Miscellaneous. The highest possible score is 9500 points.
 
-## Web ✔
+## Web
+
 - [Robots](/web_robots)
 - [Nasi Kandar](/web_nasi-kandar)
 - [Ping](/web_ping)
@@ -18,7 +21,8 @@
 - [Redacted](/web_redacted)
 - [Data Analeaktics](/web_data-analeaktics)
 
-## Crypto ✔
+## Crypto
+
 - [Bot](/crypto_bot)
 - [based](/crypto_based)
 - [base64](/crypto_base64)
@@ -26,9 +30,10 @@
 - [ROTten](/crypto_rotten)
 - [babyRSA](/crypto_babyrsa)
 - [House Keys](/crypto_house-keys)
-- [Keyboard](/crypto_keyboard) 
+- [Keyboard](/crypto_keyboard)
 
-## Forensics ✔
+## Forensics
+
 - [Babyshark](/forensics_babyshark)
 - [Lost Memories (1-5)](/forensics_lost-memories)
 - [Magic Show](/forensics_magic-show)
@@ -40,20 +45,23 @@
 - [Graduation Letter](/forensics_graduation-letter)
 - [Zelda's Phishing Pond](/forensics_zeldas-phishing-pond)
 
-## Rev ✔
+## Rev
+
 - [stringsme](/rev_stringsme)
 - [Password Check](/rev_password-check)
 - [1:1](/rev_1-1)
 - [Packman](/rev_packman)
 - [Loong](/rev_loong)
 
-## OSINT ✔
+## OSINT
+
 - [Motto](/osint_motto)
 - [HR Department (1-4)](/osint_hr-department)
 - [Promo OSINT](/osint_promo-osint)
 - [eyesClosed](/osint_eyesclosed)
 
-## Misc ✔
+## Misc
+
 - [Discord](/misc_discord)
 - [Primer](/misc_primer)
 - [Sit Back and Relax](/misc_sit-back-and-relax)

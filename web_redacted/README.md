@@ -1,15 +1,15 @@
 # Redacted
 
-| Key            | Value                                                                                                          |
-|----------------|----------------------------------------------------------------------------------------------------------------|
-| Challenge Name | Redacted                                                                                                       |
-| Author         | wolfishLamb                                                                                                    |
-| Category       | Web                                                                                                            |
-| Description    | The solution to this challenge is: Read the `flag` by <REDACTED - this has violated our community guidelines.> |
-| Challenge Type | Dynamic Docker                                                                                                 |
-| Docker Image   | sunctf_web_redacted (port 5004)                                                                                |
-| Flag           | sunctf{wh0_c4m3_up_w17h_7h15_8r1ll14n7_f347ur3}                                                                |
-| Score          | 300                                                                                                            |
+| Key            | Value                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| Challenge Name | Redacted                                                                                                                  |
+| Author         | wolfishLamb                                                                                                               |
+| Category       | Web                                                                                                                       |
+| Description    | The solution to this challenge is: Read the `flag` by <REDACTED - this has violated our community guidelines.>            |
+| Challenge Type | Dynamic Docker                                                                                                            |
+| Docker Image   | [jaredliw/sunctf_web_redacted](https://hub.docker.com/repository/docker/jaredliw/sunctf_web_redacted/general) (port 5004) |
+| Flag           | sunctf{wh0_c4m3_up_w17h_7h15_8r1ll14n7_f347ur3}                                                                           |
+| Score          | 300                                                                                                                       |
 
 *`src/db.sql` is a reserved filename to initialise the database on first run. It will be deleted automatically right
 after the database has been set up.*

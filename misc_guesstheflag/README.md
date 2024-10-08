@@ -18,7 +18,10 @@
 <details>
 <summary>Click to expand</summary>
 
-It is a good solution as long as you get the flag. See [how we solve it](docs/solve.py).
+Notice the use of `[[ ... ]]`, the server actually evaluates RegEx-like expression for pattern matching. Check out [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#:~:text=When%20the%20%E2%80%98%3D%3D%E2%80%99%20and%20%E2%80%98!%3D%E2%80%99%20operators%20are%20used%2C%20the%20string%20to%20the%20right%20of%20the%20operator%20is%20considered%20a%20pattern%20and%20matched%20according%20to%20the%20rules%20described%20below%20in%20Pattern%20Matching):
+
+![Bash Reference Manual](docs/bash-manual.png)
+
 </details>
 
 Warn: If you are trying to build and run the container from scratch, make sure that you are using LF in

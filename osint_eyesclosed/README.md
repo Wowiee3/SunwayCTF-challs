@@ -19,7 +19,10 @@ Note: if possible, set submission limit to 10.
 <details>
 <summary>Click to expand</summary>
 
-He was at [Kita-Ageo Station](https://en.wikipedia.org/wiki/Kita-Ageo_Station).
+When you close your eyes, you can focus more on the sounds in the video.
+
+From this [collection of departure melodies in Saitama](https://www.youtube.com/watch?v=IPTBYFbNx18&t=71s&ab_channel=%E3%83%9E%E3%83%83%E3%83%81%E3%83%BC%E5%BF%AB%E9%80%9F),
+we can identify that he was at [Kita-Ageo Station](https://en.wikipedia.org/wiki/Kita-Ageo_Station).
 
 </details>
 
